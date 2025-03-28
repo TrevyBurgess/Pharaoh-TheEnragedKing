@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\github\\pharaoh-theangeredking\\theenragedking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\theenragedking\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\github\\pharaoh-theangeredking\\theenragedking\\intermediate\\build\\win64\\x64\\theenragedkingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\github\\pharaoh-theangeredking\\theenragedking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\theenragedking\\definitions.theenragedking.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

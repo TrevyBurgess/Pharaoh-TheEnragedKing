@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\github\\pharaoh-theangeredking\\theenragedking\\source\\theenragedking\\theenragedking.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\github\\pharaoh-theangeredking\\theenragedking\\intermediate\\build\\win64\\x64\\theenragedkingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\github\\pharaoh-theangeredking\\theenragedking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\theenragedking\\definitions.theenragedking.h",
+            "d:\\dev\\github\\pharaoh-theangeredking\\theenragedking\\source\\theenragedking\\theenragedking.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
