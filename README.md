@@ -21,12 +21,13 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 
 For the second sun, change these to 1
 
+1. Both suns = Movable
 1. Atmosphere Sun Light Index = 1
 1. ForwardShadingPriority = 1
 1. Temperature - 1000
 1. Intensity - 1 lux
-1. Source angle - sun size = 1
-1. Sky Light - Movable, Real Time Capture
+1. Source angle - sun size = 4
+1. SkyLight - Movable, Real Time Capture = Checked
 
 ## Default Content
 
@@ -35,9 +36,9 @@ For the second sun, change these to 1
 1. StarterContent
 1. ThirdPerson
 
+## ff
 
-
-
+African Slate Quarry
 
 
 
@@ -148,14 +149,6 @@ Village .............: Slavic Village
 2. Classic_Office .: OLD OFFICE Interior (MODULAR)
 
 ## Basic level components
-
-### 1. Sky
-
-Directional Light
-Exponential Height Fog
-Sky Atmosphere
-Sky Light
-Volumetric Cloud
 
 ### 2. gfs
 
