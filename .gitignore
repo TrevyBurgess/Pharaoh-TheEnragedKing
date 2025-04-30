@@ -51,6 +51,8 @@ SourceArt/**/*.tga
 !/TheEnragedKing/Content
 /TheEnragedKing/Content/*
 !/TheEnragedKing/Content/_Content
+!/TheEnragedKing/Content/CyberFF_BasicAssets
+!/TheEnragedKing/Content/CyberFF_Egypt
 
 # Binary Files
 Binaries/*

@@ -36,24 +36,27 @@ For the second sun, change these to 1
 1. StarterContent
 1. ThirdPerson
 
-## ff
+## Libraries
 
 1. BlackAlder . . . . : European Black Alder
+1. - Characters
+1. - Fab
 1. FarmAnimalsPack. . : FARM ANIMALS PACK
-
+1. - LevelPrototyping
+1. _ MSPresets
+1. - StarterContent
+1. - ThirdPerson
 1. Vegetation . . . . : Mountains & Meadows I Outdoor Environment
 
+## Project Settings
 
-1. Modular Temple Plaza 4k PBR
-
-
-1. Smuggler's Cove Asset Pack
-
-
+Rendering
+Shadow Map Method: Virtual Shadow Maps -> Shadow Maps
+Anti-aliasing method: Temporal Super-Resolution(TSR) -> Temporal Anti-aliasing (TAA)
 
 
-African Slate Quarry
-
+---------------
+Fantasy Cave Environment Set
 
 
 
@@ -61,28 +64,14 @@ African Slate Quarry
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
 
 ## ww
 
