@@ -39,13 +39,16 @@ For the second sun, change these to 1
 ## Libraries
 
 1. BlackAlder . . . . : European Black Alder
-1. - Characters
-1. - Fab
+1. Characters - - - - :
+1. Elite_Landscapes . : Elite Landscapes: Bundle Pack
+1. Fab- - - - - - - - :
 1. FarmAnimalsPack. . : FARM ANIMALS PACK
-1. - LevelPrototyping
-1. _ MSPresets
-1. - StarterContent
-1. - ThirdPerson
+1. Infinity Blade: Template
+1. LevelPrototyping - :
+1. MSPresets- - - - - :
+1. StarterContent - - :
+1. TemplesOfCambodia. : [VP] Temples of Cambodia - Ruins exterior and interior
+1. ThirdPerson- - - - :
 1. Vegetation . . . . : Mountains & Meadows I Outdoor Environment
 
 ## Project Settings
@@ -61,7 +64,9 @@ Fantasy Cave Environment Set
 
 
 
+## Might Include
 
+RuralAustralia
 
 
 .
