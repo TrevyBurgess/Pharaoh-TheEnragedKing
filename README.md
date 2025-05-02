@@ -36,20 +36,58 @@ For the second sun, change these to 1
 1. StarterContent
 1. ThirdPerson
 
-## Libraries
+## Unreal Libraries
 
-1. BlackAlder . . . . : European Black Alder
-1. Characters - - - - :
-1. Elite_Landscapes . : Elite Landscapes: Bundle Pack
-1. Fab- - - - - - - - :
-1. FarmAnimalsPack. . : FARM ANIMALS PACK
-1. Infinity Blade: Template
-1. LevelPrototyping - :
-1. MSPresets- - - - - :
-1. StarterContent - - :
-1. TemplesOfCambodia. : [VP] Temples of Cambodia - Ruins exterior and interior
-1. ThirdPerson- - - - :
-1. Vegetation . . . . : Mountains & Meadows I Outdoor Environment
+1. Characters_________:
+1. Fab _______________:
+1. LevelPrototyping___:
+1. StarterContent_____:
+1. ThirdPerson________:
+1. MSPresets__________:
+
+## 3rd Party Libraries
+
+1. BlackAlder----------------: European Black Alder
+1. Bazaar_Meshingun----------: The Bazaar
+1. Elite_Landscapes----------: Elite Landscapes: Bundle Pack
+1. EnvironmentPack2----------:
+1. FarmAnimalsPack-----------: FARM ANIMALS PACK
+1. Infinity Blade------------: Template
+1. MesoamericaConstructions--:
+1. TemplesOfCambodia---------: [VP] Temples of Cambodia - Ruins exterior and interior
+1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Project Settings
 
