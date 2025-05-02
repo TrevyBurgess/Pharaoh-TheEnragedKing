@@ -41,14 +41,14 @@ For the second sun, change these to 1
 1. Characters_________:
 1. Fab _______________:
 1. LevelPrototyping___:
+1. MSPresets__________:
 1. StarterContent_____:
 1. ThirdPerson________:
-1. MSPresets__________:
 
 ## 3rd Party Libraries
 
-1. BlackAlder----------------: European Black Alder
 1. Bazaar_Meshingun----------: The Bazaar
+1. BlackAlder----------------: European Black Alder
 1. Elite_Landscapes----------: Elite Landscapes: Bundle Pack
 1. EnvironmentPack2----------:
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK

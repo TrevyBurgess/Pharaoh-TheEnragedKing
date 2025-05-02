@@ -46,8 +46,6 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # 3rd party Content
-!/TheEnragedKing
-/TheEnragedKing/*
 !/TheEnragedKing/Content
 /TheEnragedKing/Content/*
 !/TheEnragedKing/Content/_Content

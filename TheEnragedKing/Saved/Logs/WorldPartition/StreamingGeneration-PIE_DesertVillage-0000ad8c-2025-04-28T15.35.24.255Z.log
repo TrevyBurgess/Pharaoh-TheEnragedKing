@@ -1,0 +1,1045 @@
+[+] Containers:
+ |- [+] Container: /Game/_Content/Maps/DesertVillage
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0271FEDA4F437821468488A31BEB0AD9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_7_0 Label:LandscapeStreamingProxy_0_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=37800.000 Z=569.531), Max=(X=-37800.000 Y=50400.000 Z=4971.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:04079B0A4C159311783614BB92F70840 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_1_0 Label:InstancedFoliageActor_-2_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=25600.000 Z=0.000), Max=(X=-25600.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50899.888 Y=25225.535 Z=25.086), Max=(X=-25085.970 Y=50626.428 Z=5142.063)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:058B25134A896F628777079EC35111FD BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_-1_0 Label:InstancedFoliageActor_1_-1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=-25600.000 Z=0.000), Max=(X=51200.000 Y=0.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25440.606 Y=-25992.521 Z=387.562), Max=(X=49844.083 Y=488.306 Z=8065.248)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:07B3ED4446C1317ED93DB2B8B9F04021 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_3_0 Label:LandscapeStreamingProxy_2_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-12600.000 Z=2071.094), Max=(X=-12600.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:07F7ABEA438973EA6FB618BF1D4B1420 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A4BB6D5B14A8FF6202_1811916868 Label:Sun_2 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- Guid:0AD393304416A270A37A39A0C4D39349 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A4BB6D5B14A8FF6202_1782532866 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19520.000), Max=(X=0.000 Y=0.000 Z=19520.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- Guid:0B7B507A4FBC9BECDD0A689BB1786310 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-37800.000 Z=-233.594), Max=(X=-37800.000 Y=-25200.000 Z=3052.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:0E42FE444FCA8CEABA4497B96AA645F9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_6_0 Label:LandscapeStreamingProxy_2_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=25200.000 Z=100.000), Max=(X=-12600.000 Y=37800.000 Z=2982.812) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:15F794AA49B41D52DB359298744628B6 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_7_0 Label:LandscapeStreamingProxy_3_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=37800.000 Z=714.844), Max=(X=0.000 Y=50400.000 Z=4085.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:19F0185A4AEF6F18022D108095C44019 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_0_0 Label:LandscapeStreamingProxy_3_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-50400.000 Z=-0.781), Max=(X=0.000 Y=-37800.000 Z=5524.219) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:20EC44D34601D5D8313594B0568BA020 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-50400.000 Z=752.344), Max=(X=-37800.000 Y=-37800.000 Z=4093.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2127E5FA4712463FE66CDE926EE04A21 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A4BB6D5B14A8FF6202_1854736869 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19330.000), Max=(X=0.000 Y=0.000 Z=19330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- Guid:2529874444BDE610833E3A97FCA9B680 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_6_0 Label:LandscapeStreamingProxy_6_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=25200.000 Z=190.625), Max=(X=37800.000 Y=37800.000 Z=3264.062) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:2C271376480A99833409C7A859E680E2 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_3_0 Label:LandscapeStreamingProxy_7_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-12600.000 Z=479.688), Max=(X=50400.000 Y=0.000 Z=4553.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:34B6C3704B5DBED5357905A9AFAAEE90 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_6_0 Label:LandscapeStreamingProxy_0_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=25200.000 Z=39.844), Max=(X=-37800.000 Y=37800.000 Z=3696.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3577A16048FE709680A8829F6128F652 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_6_0 Label:LandscapeStreamingProxy_7_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=25200.000 Z=763.281), Max=(X=50400.000 Y=37800.000 Z=3030.469) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:365D4E3C44766D05AF8183A339957853 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_-2_0 Label:InstancedFoliageActor_-2_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=-51200.000 Z=0.000), Max=(X=-25600.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50603.900 Y=-49952.282 Z=-153.536), Max=(X=-25387.128 Y=-25297.475 Z=4522.192)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:3A9542B6456D4E2E42126DB06C9C0405 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_5_0 Label:LandscapeStreamingProxy_3_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=12600.000 Z=2071.094), Max=(X=0.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:3BF8F5D542247CDCCA12E885C0FF54C5 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_7_0 Label:LandscapeStreamingProxy_1_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=37800.000 Z=317.969), Max=(X=-25200.000 Y=50400.000 Z=3479.688) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:408DD2BE413AC1C7A42ED4B76561090E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_2_0 Label:LandscapeStreamingProxy_3_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-25200.000 Z=653.906), Max=(X=0.000 Y=-12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:438CE91C4E6AE2D8E505FC9202871898 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_-2_-1 Label:InstancedFoliageActor_-2_-2_-1 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=-51200.000 Z=-25600.000), Max=(X=-25600.000 Y=-25600.000 Z=0.000) Runtime:IsValid=true, Min=(X=-43111.089 Y=-33858.939 Z=-282.561), Max=(X=-40217.791 Y=-29137.567 Z=577.952)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:4B54095B49C267623AE434BDBA25E914 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_0_0 Label:LandscapeStreamingProxy_2_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-50400.000 Z=350.000), Max=(X=-12600.000 Y=-37800.000 Z=6107.031) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:4C4B79894A4112D98C7D95B5AD1FEFC1 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_-1_0 Label:InstancedFoliageActor_0_-1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=-25600.000 Z=0.000), Max=(X=25600.000 Y=0.000 Z=25600.000) Runtime:IsValid=true, Min=(X=20609.282 Y=-25861.380 Z=701.920), Max=(X=25877.254 Y=-11697.564 Z=2019.069)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:4FA5B84448C941D9F05C16B0AF196091 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_1_0 Label:LandscapeStreamingProxy_3_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-37800.000 Z=-948.438), Max=(X=0.000 Y=-25200.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:523C734D4FEDDDDD9CC4AD9CBF9F4FDC BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_A4BB6D5B14A8FF6202_1950829871 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-10890.000 Y=-32710.000 Z=2170.312), Max=(X=-10810.000 Y=-32630.000 Z=2354.312) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5BF34DFB4182D341C68546B365DA394E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_2_0 Label:LandscapeStreamingProxy_1_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-25200.000 Z=1282.031), Max=(X=-25200.000 Y=-12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:5D1FB04444A092C912D1F58AF7B70B45 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_2_0 Label:LandscapeStreamingProxy_6_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-25200.000 Z=411.719), Max=(X=37800.000 Y=-12600.000 Z=2885.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:722A629E4C7B8F0BFEB00FBC37AAB78F BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_4_0 Label:LandscapeStreamingProxy_1_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=0.000 Z=952.344), Max=(X=-25200.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7407E0E54F5EDCEFB2A040B336D7B869 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_4_0 Label:LandscapeStreamingProxy_5_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=0.000 Z=2095.312), Max=(X=25200.000 Y=12600.000 Z=2186.719) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:75A4F7DA4F41F6B8532EBCB91BC8C962 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_4_0 Label:LandscapeStreamingProxy_3_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=0.000 Z=2071.094), Max=(X=0.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:76049AA6491D97E3C9FA1C855DB94D50 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_1_0 Label:LandscapeStreamingProxy_2_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-37800.000 Z=-1510.156), Max=(X=-12600.000 Y=-25200.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7A7DD373489EDF210F84CDB4D76A4C8E BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-1_0_0 Label:InstancedFoliageActor_-1_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-25600.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-25997.207 Y=20630.521 Z=109.433), Max=(X=-16039.719 Y=25935.150 Z=2710.227)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:7ADBA3D1485AE8694C8862BDFA5C4869 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:7AF7ED044F0AEAF97BF0C9BAD7442CCE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_2_0 Label:LandscapeStreamingProxy_7_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-25200.000 Z=1025.000), Max=(X=50400.000 Y=-12600.000 Z=7609.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7B23BBAF46ACA61C56F863ADBBCE9743 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_1_0 Label:LandscapeStreamingProxy_5_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-37800.000 Z=117.969), Max=(X=25200.000 Y=-25200.000 Z=2171.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:7F58C79B4CC875108A721C9AC4BB6F9A BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_-2_0 Label:InstancedFoliageActor_1_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=-51200.000 Z=0.000), Max=(X=51200.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25401.053 Y=-45919.574 Z=-175.793), Max=(X=50063.830 Y=-25134.758 Z=9196.407)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:7F6496894D75B0D7F5A33AB273763CDE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_4_0 Label:LandscapeStreamingProxy_0_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=0.000 Z=542.188), Max=(X=-37800.000 Y=12600.000 Z=5922.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:80DD9B6E4BBCFC8EB588E5BF9EE7E594 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_2_0 Label:LandscapeStreamingProxy_5_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-25200.000 Z=739.062), Max=(X=25200.000 Y=-12600.000 Z=2171.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8229B2634251ABE43FB18583A23197C0 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_-2_0 Label:InstancedFoliageActor_0_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=-51200.000 Z=0.000), Max=(X=25600.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-88.662 Y=-49116.532 Z=11.549), Max=(X=25986.978 Y=-25198.548 Z=5809.720)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:85A8A1F5473CD922C93A319DB6385767 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_5_0 Label:LandscapeStreamingProxy_2_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=12600.000 Z=100.000), Max=(X=-12600.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8B46BBC3477A778887E170BC36BB0BFC BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_7_0 Label:LandscapeStreamingProxy_4_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=37800.000 Z=851.562), Max=(X=12600.000 Y=50400.000 Z=3577.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8BC23D554F1721EB4A7D27ABE45441A9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_6_0 Label:LandscapeStreamingProxy_3_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=25200.000 Z=100.000), Max=(X=0.000 Y=37800.000 Z=2982.031) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:8E1C540849012E7075E54BBCC8E8E177 BaseClass: NativeClass:/Script/Water.WaterZone Name:WaterZone_UAID_A4BB6D5B14A8386302_1754765896 Label:WaterZone SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-50400.000 Y=-50400.000 Z=-50400.000), Max=(X=50400.000 Y=50400.000 Z=50400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Water FolderGuid:60540B084B80BD9F18C62EACDE0846F9
+ |   |   |- Guid:9053D143437C0C71F92A92BCE0FA31D0 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_-2_-1 Label:InstancedFoliageActor_1_-2_-1 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=-51200.000 Z=-25600.000), Max=(X=51200.000 Y=-25600.000 Z=0.000) Runtime:IsValid=true, Min=(X=33260.327 Y=-34627.443 Z=-59.810), Max=(X=33658.734 Y=-33442.301 Z=114.462)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:92AB9A584FD5EBC91E6D3AA8FC541341 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_4_0 Label:LandscapeStreamingProxy_7_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=0.000 Z=366.406), Max=(X=50400.000 Y=12600.000 Z=2952.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:94E61C4F4C3F9CC146DCADA2DCB78E35 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_3_0 Label:LandscapeStreamingProxy_6_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-12600.000 Z=585.156), Max=(X=37800.000 Y=0.000 Z=2171.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:94F3BB014E441BEF71003CAF022992CF BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_3_0 Label:LandscapeStreamingProxy_1_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-12600.000 Z=1048.438), Max=(X=-25200.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:97A2A87D4586516E4D1A7492D156FD56 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A4BB6D5B14A8FF6202_1793400867 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19430.000), Max=(X=0.000 Y=0.000 Z=19430.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- Guid:987CBFA344FC699C23398497BC876A20 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_4_0 Label:LandscapeStreamingProxy_6_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=0.000 Z=364.062), Max=(X=37800.000 Y=12600.000 Z=2176.562) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:98F7E03745607873047769B1DA020293 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-50400.000 Z=517.188), Max=(X=-25200.000 Y=-37800.000 Z=3675.781) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9AD9B6F3438DD9F85A634E9608D9409A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_2_0 Label:LandscapeStreamingProxy_0_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-25200.000 Z=121.094), Max=(X=-37800.000 Y=-12600.000 Z=2400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9B39EAC941C5BCE6D6C119A907822990 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_5_0 Label:LandscapeStreamingProxy_7_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=12600.000 Z=366.406), Max=(X=50400.000 Y=25200.000 Z=2845.312) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9CEC33A4423B48DCE99D8F9C8A97986B BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_6_0 Label:LandscapeStreamingProxy_5_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=25200.000 Z=-412.500), Max=(X=25200.000 Y=37800.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:9DA52A2A43FD2955AAA764B41FFE92D8 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_5_0 Label:LandscapeStreamingProxy_1_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=12600.000 Z=386.719), Max=(X=-25200.000 Y=25200.000 Z=2212.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A1833DD34B2D245F971AF7B4DE2AD62F BaseClass: NativeClass:/Script/Water.WaterBodyCustom Name:WaterBodyCustom_UAID_A4BB6D5B14A83D6302_1854162777 Label:WaterBodyCustom2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17592.000 Y=-34512.000 Z=-1707.500), Max=(X=-6008.000 Y=-22928.000 Z=5312.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A1E2AE8F4D91EF0CF11AFDA6FFE8DD71 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_4_0 Label:LandscapeStreamingProxy_4_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=2071.094), Max=(X=12600.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A4A1998541124618C9BC8D9E96D87B40 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A4BB6D5B14A8FF6202_1889464870 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19100.000), Max=(X=0.000 Y=0.000 Z=19100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- Guid:A6885A55431423E201959487CD0E777E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_7_0 Label:LandscapeStreamingProxy_5_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=37800.000 Z=-188.281), Max=(X=25200.000 Y=50400.000 Z=2984.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:A805570B45260206B986258EF6189907 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_0_0 Label:InstancedFoliageActor_1_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=0.000 Z=0.000), Max=(X=51200.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25188.520 Y=-298.750 Z=352.877), Max=(X=50835.371 Y=25886.149 Z=3491.158)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:ABABA227400C737B53BF1C8C43520677 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_5_0 Label:LandscapeStreamingProxy_5_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=12600.000 Z=1319.531), Max=(X=25200.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:ADEB6563439768C33BCB17BC17804400 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_-1_0 Label:InstancedFoliageActor_-2_-1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=-25600.000 Z=0.000), Max=(X=-25600.000 Y=0.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50884.406 Y=-25934.358 Z=83.221), Max=(X=-32063.345 Y=353.429 Z=5455.637)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:AF1EEC904C80F953054ECE90EB456BE4 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_5_0 Label:LandscapeStreamingProxy_6_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=12600.000 Z=366.406), Max=(X=37800.000 Y=25200.000 Z=2954.688) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:AF714B164CCA7E2DF7A2AFBA920DEE37 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-1_-2_0 Label:InstancedFoliageActor_-1_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-25600.000 Y=-51200.000 Z=0.000), Max=(X=0.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-26086.756 Y=-47038.883 Z=742.414), Max=(X=311.434 Y=-40650.426 Z=4606.249)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:B070246D4C355A0BC660AD897C3853F1 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_0_0 Label:LandscapeStreamingProxy_4_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-50400.000 Z=494.531), Max=(X=12600.000 Y=-37800.000 Z=4638.281) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B13AE6BB4F6F9A96322AAE85BE79212C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_2_0 Label:LandscapeStreamingProxy_2_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=42.188), Max=(X=-12600.000 Y=-12600.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B33DDDD6466B93A1D5E0BB861C58B110 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_5_0 Label:LandscapeStreamingProxy_0_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=12600.000 Z=66.406), Max=(X=-37800.000 Y=25200.000 Z=3861.719) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B83C6BB848A16D2337097999E9267804 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_7_0 Label:LandscapeStreamingProxy_6_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=37800.000 Z=653.125), Max=(X=37800.000 Y=50400.000 Z=3828.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:B93085104A859BEB4368F0851F09F96B BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_0_0 Label:InstancedFoliageActor_-2_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=0.000 Z=0.000), Max=(X=-25600.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50910.034 Y=-460.081 Z=41.330), Max=(X=-25294.485 Y=25977.380 Z=6263.006)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:BA9C81E841ACF2EA1EBBB3BF9557CBC4 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_0_0 Label:InstancedFoliageActor_0_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=25600.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=19817.655 Y=12111.286 Z=1241.375), Max=(X=25948.327 Y=25884.288 Z=2580.967)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:BB94BE02482958582DED029E187D7783 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-37800.000 Z=1139.844), Max=(X=-25200.000 Y=-25200.000 Z=3129.688) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:BBCC7B6E401C99332955E19B245D4706 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_1_-1 Label:InstancedFoliageActor_0_1_-1 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=25600.000 Z=-25600.000), Max=(X=25600.000 Y=51200.000 Z=0.000) Runtime:IsValid=true, Min=(X=14626.167 Y=33107.265 Z=-453.239), Max=(X=21267.084 Y=38818.697 Z=514.173)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:C5C6C1F44CC4B885209C75AA0639BB74 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_1_0 Label:LandscapeStreamingProxy_6_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-37800.000 Z=-57.812), Max=(X=37800.000 Y=-25200.000 Z=3669.531) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:C7DDE32E46ADF02F8CCC4F9D5C8B8F8B BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-1_1_0 Label:InstancedFoliageActor_-1_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-25600.000 Y=25600.000 Z=0.000), Max=(X=0.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-25944.288 Y=25349.178 Z=84.910), Max=(X=342.920 Y=50532.248 Z=4492.583)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:CFAF4B4C40AE2CD523B134B46C515016 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_3_0 Label:LandscapeStreamingProxy_5_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-12600.000 Z=1499.219), Max=(X=25200.000 Y=0.000 Z=2271.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D3DE25404BA4FF36B31A6FBE9C47DB20 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_7_0 Label:LandscapeStreamingProxy_7_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=37800.000 Z=799.219), Max=(X=50400.000 Y=50400.000 Z=4689.062) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D976AA7C413A13067EB507A3C98CB8A3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_1_0 Label:LandscapeStreamingProxy_7_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-37800.000 Z=1295.312), Max=(X=50400.000 Y=-25200.000 Z=8785.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:DAFDEC9E4F9321B175826FBB0C19C5C2 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_3_0 Label:LandscapeStreamingProxy_3_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=2071.094), Max=(X=0.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E0513743425D06CFEAD103A5FEB40D35 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_3_0 Label:LandscapeStreamingProxy_0_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-12600.000 Z=167.969), Max=(X=-37800.000 Y=0.000 Z=4984.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E199A92E43FC950F0FE73B871FC4BA5C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_1_0 Label:LandscapeStreamingProxy_4_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-37800.000 Z=921.875), Max=(X=12600.000 Y=-25200.000 Z=2294.531) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E5FD14034007E2C404CD9B87E0CBCAA2 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_3_0 Label:LandscapeStreamingProxy_4_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-12600.000 Z=2071.094), Max=(X=12600.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E6B5B48744A69276D8D8C6BD1B011C64 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_4_0 Label:LandscapeStreamingProxy_2_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=0.000 Z=2071.094), Max=(X=-12600.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:E71D9B68417B71FF50EDCF9F15A8BEB3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_7_0 Label:LandscapeStreamingProxy_2_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=37800.000 Z=135.938), Max=(X=-12600.000 Y=50400.000 Z=2272.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EBB7B2FA4033499CD7AA72B04ECBA40D BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_6_0 Label:LandscapeStreamingProxy_4_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=25200.000 Z=307.031), Max=(X=12600.000 Y=37800.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EC92345545112844EC88678BBC1FCFAE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_5_0 Label:LandscapeStreamingProxy_4_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=12600.000 Z=2071.094), Max=(X=12600.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:EFBA4D174F2906BFBF62EB8C6CA9BFC6 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A4BB6D5B14A8FF6202_1739731865 Label:Sun_1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- Guid:F1BAD0B14621E6985AFBA78FDF6F2FC6 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_0_0 Label:LandscapeStreamingProxy_5_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-50400.000 Z=338.281), Max=(X=25200.000 Y=-37800.000 Z=6628.906) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F3893454490CF42180CEDB95634C4240 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_2_0 Label:LandscapeStreamingProxy_4_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-25200.000 Z=2071.094), Max=(X=12600.000 Y=-12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:F4975FF846BD875BF3E884AC4F1097A1 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_1_0 Label:InstancedFoliageActor_0_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=25600.000 Z=0.000), Max=(X=25600.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-503.995 Y=25231.643 Z=-178.893), Max=(X=26030.467 Y=50611.493 Z=3973.460)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:F77ABB1546C8959E2CA13492B2FF20B4 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A4BB6D5B14A8FF6202_1654773864 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-50400.000 Y=-50400.000 Z=100.000), Max=(X=-50400.000 Y=-50400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:F8B935854F8D3C44CA66AC912BD630C9 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_1_0 Label:InstancedFoliageActor_1_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=25600.000 Z=0.000), Max=(X=51200.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25110.358 Y=25189.184 Z=213.494), Max=(X=50724.308 Y=50667.537 Z=5012.986)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- Guid:FA1E598142936CD093E868BFD8A7907A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_0_0 Label:LandscapeStreamingProxy_6_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-50400.000 Z=510.938), Max=(X=37800.000 Y=-37800.000 Z=6794.531) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FBA9E11C4640EB234F1A9EBC3228DFDF BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_6_0 Label:LandscapeStreamingProxy_1_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=25200.000 Z=265.625), Max=(X=-25200.000 Y=37800.000 Z=3342.969) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:FE6DA1A84685326DC9EFAA9E2961F1D5 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_0_0 Label:LandscapeStreamingProxy_7_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-50400.000 Z=1092.969), Max=(X=50400.000 Y=-37800.000 Z=6948.438) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0271FEDA4F437821468488A31BEB0AD9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_7_0 Label:LandscapeStreamingProxy_0_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=37800.000 Z=569.531), Max=(X=-37800.000 Y=50400.000 Z=4971.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:04079B0A4C159311783614BB92F70840 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_1_0 Label:InstancedFoliageActor_-2_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=25600.000 Z=0.000), Max=(X=-25600.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50899.888 Y=25225.535 Z=25.086), Max=(X=-25085.970 Y=50626.428 Z=5142.063)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:058B25134A896F628777079EC35111FD BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_-1_0 Label:InstancedFoliageActor_1_-1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=-25600.000 Z=0.000), Max=(X=51200.000 Y=0.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25440.606 Y=-25992.521 Z=387.562), Max=(X=49844.083 Y=488.306 Z=8065.248)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:07B3ED4446C1317ED93DB2B8B9F04021 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_3_0 Label:LandscapeStreamingProxy_2_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-12600.000 Z=2071.094), Max=(X=-12600.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:07F7ABEA438973EA6FB618BF1D4B1420 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A4BB6D5B14A8FF6202_1811916868 Label:Sun_2 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:0AD393304416A270A37A39A0C4D39349 BaseClass: NativeClass:/Script/Engine.ExponentialHeightFog Name:ExponentialHeightFog_UAID_A4BB6D5B14A8FF6202_1782532866 Label:ExponentialHeightFog SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19520.000), Max=(X=0.000 Y=0.000 Z=19520.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:0B7B507A4FBC9BECDD0A689BB1786310 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_1_0 Label:LandscapeStreamingProxy_0_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-37800.000 Z=-233.594), Max=(X=-37800.000 Y=-25200.000 Z=3052.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:0E42FE444FCA8CEABA4497B96AA645F9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_6_0 Label:LandscapeStreamingProxy_2_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=25200.000 Z=100.000), Max=(X=-12600.000 Y=37800.000 Z=2982.812) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:15F794AA49B41D52DB359298744628B6 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_7_0 Label:LandscapeStreamingProxy_3_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=37800.000 Z=714.844), Max=(X=0.000 Y=50400.000 Z=4085.938) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:19F0185A4AEF6F18022D108095C44019 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_0_0 Label:LandscapeStreamingProxy_3_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-50400.000 Z=-0.781), Max=(X=0.000 Y=-37800.000 Z=5524.219) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:20EC44D34601D5D8313594B0568BA020 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_0_0 Label:LandscapeStreamingProxy_0_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-50400.000 Z=752.344), Max=(X=-37800.000 Y=-37800.000 Z=4093.750) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:2127E5FA4712463FE66CDE926EE04A21 BaseClass: NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A4BB6D5B14A8FF6202_1854736869 Label:SkyLight SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19330.000), Max=(X=0.000 Y=0.000 Z=19330.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:2529874444BDE610833E3A97FCA9B680 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_6_0 Label:LandscapeStreamingProxy_6_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=25200.000 Z=190.625), Max=(X=37800.000 Y=37800.000 Z=3264.062) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:2C271376480A99833409C7A859E680E2 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_3_0 Label:LandscapeStreamingProxy_7_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-12600.000 Z=479.688), Max=(X=50400.000 Y=0.000 Z=4553.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:34B6C3704B5DBED5357905A9AFAAEE90 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_6_0 Label:LandscapeStreamingProxy_0_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=25200.000 Z=39.844), Max=(X=-37800.000 Y=37800.000 Z=3696.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:3577A16048FE709680A8829F6128F652 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_6_0 Label:LandscapeStreamingProxy_7_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=25200.000 Z=763.281), Max=(X=50400.000 Y=37800.000 Z=3030.469) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:365D4E3C44766D05AF8183A339957853 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_-2_0 Label:InstancedFoliageActor_-2_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=-51200.000 Z=0.000), Max=(X=-25600.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50603.900 Y=-49952.282 Z=-153.536), Max=(X=-25387.128 Y=-25297.475 Z=4522.192)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:3A9542B6456D4E2E42126DB06C9C0405 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_5_0 Label:LandscapeStreamingProxy_3_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=12600.000 Z=2071.094), Max=(X=0.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:3BF8F5D542247CDCCA12E885C0FF54C5 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_7_0 Label:LandscapeStreamingProxy_1_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=37800.000 Z=317.969), Max=(X=-25200.000 Y=50400.000 Z=3479.688) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:408DD2BE413AC1C7A42ED4B76561090E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_2_0 Label:LandscapeStreamingProxy_3_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-25200.000 Z=653.906), Max=(X=0.000 Y=-12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:438CE91C4E6AE2D8E505FC9202871898 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_-2_-1 Label:InstancedFoliageActor_-2_-2_-1 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=-51200.000 Z=-25600.000), Max=(X=-25600.000 Y=-25600.000 Z=0.000) Runtime:IsValid=true, Min=(X=-43111.089 Y=-33858.939 Z=-282.561), Max=(X=-40217.791 Y=-29137.567 Z=577.952)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:4B54095B49C267623AE434BDBA25E914 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_0_0 Label:LandscapeStreamingProxy_2_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-50400.000 Z=350.000), Max=(X=-12600.000 Y=-37800.000 Z=6107.031) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:4C4B79894A4112D98C7D95B5AD1FEFC1 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_-1_0 Label:InstancedFoliageActor_0_-1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=-25600.000 Z=0.000), Max=(X=25600.000 Y=0.000 Z=25600.000) Runtime:IsValid=true, Min=(X=20609.282 Y=-25861.380 Z=701.920), Max=(X=25877.254 Y=-11697.564 Z=2019.069)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:4FA5B84448C941D9F05C16B0AF196091 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_1_0 Label:LandscapeStreamingProxy_3_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-37800.000 Z=-948.438), Max=(X=0.000 Y=-25200.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:523C734D4FEDDDDD9CC4AD9CBF9F4FDC BaseClass: NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_A4BB6D5B14A8FF6202_1950829871 Label:PlayerStart SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-10890.000 Y=-32710.000 Z=2170.312), Max=(X=-10810.000 Y=-32630.000 Z=2354.312) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:5BF34DFB4182D341C68546B365DA394E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_2_0 Label:LandscapeStreamingProxy_1_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-25200.000 Z=1282.031), Max=(X=-25200.000 Y=-12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:5D1FB04444A092C912D1F58AF7B70B45 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_2_0 Label:LandscapeStreamingProxy_6_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-25200.000 Z=411.719), Max=(X=37800.000 Y=-12600.000 Z=2885.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:722A629E4C7B8F0BFEB00FBC37AAB78F BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_4_0 Label:LandscapeStreamingProxy_1_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=0.000 Z=952.344), Max=(X=-25200.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:7407E0E54F5EDCEFB2A040B336D7B869 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_4_0 Label:LandscapeStreamingProxy_5_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=0.000 Z=2095.312), Max=(X=25200.000 Y=12600.000 Z=2186.719) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:75A4F7DA4F41F6B8532EBCB91BC8C962 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_4_0 Label:LandscapeStreamingProxy_3_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=0.000 Z=2071.094), Max=(X=0.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:76049AA6491D97E3C9FA1C855DB94D50 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_1_0 Label:LandscapeStreamingProxy_2_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-37800.000 Z=-1510.156), Max=(X=-12600.000 Y=-25200.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:7A7DD373489EDF210F84CDB4D76A4C8E BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-1_0_0 Label:InstancedFoliageActor_-1_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-25600.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-25997.207 Y=20630.521 Z=109.433), Max=(X=-16039.719 Y=25935.150 Z=2710.227)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:7ADBA3D1485AE8694C8862BDFA5C4869 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:7AF7ED044F0AEAF97BF0C9BAD7442CCE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_2_0 Label:LandscapeStreamingProxy_7_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-25200.000 Z=1025.000), Max=(X=50400.000 Y=-12600.000 Z=7609.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:7B23BBAF46ACA61C56F863ADBBCE9743 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_1_0 Label:LandscapeStreamingProxy_5_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-37800.000 Z=117.969), Max=(X=25200.000 Y=-25200.000 Z=2171.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:7F58C79B4CC875108A721C9AC4BB6F9A BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_-2_0 Label:InstancedFoliageActor_1_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=-51200.000 Z=0.000), Max=(X=51200.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25401.053 Y=-45919.574 Z=-175.793), Max=(X=50063.830 Y=-25134.758 Z=9196.407)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:7F6496894D75B0D7F5A33AB273763CDE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_4_0 Label:LandscapeStreamingProxy_0_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=0.000 Z=542.188), Max=(X=-37800.000 Y=12600.000 Z=5922.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:80DD9B6E4BBCFC8EB588E5BF9EE7E594 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_2_0 Label:LandscapeStreamingProxy_5_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-25200.000 Z=739.062), Max=(X=25200.000 Y=-12600.000 Z=2171.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:8229B2634251ABE43FB18583A23197C0 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_-2_0 Label:InstancedFoliageActor_0_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=-51200.000 Z=0.000), Max=(X=25600.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-88.662 Y=-49116.532 Z=11.549), Max=(X=25986.978 Y=-25198.548 Z=5809.720)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:85A8A1F5473CD922C93A319DB6385767 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_5_0 Label:LandscapeStreamingProxy_2_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=12600.000 Z=100.000), Max=(X=-12600.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:8B46BBC3477A778887E170BC36BB0BFC BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_7_0 Label:LandscapeStreamingProxy_4_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=37800.000 Z=851.562), Max=(X=12600.000 Y=50400.000 Z=3577.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:8BC23D554F1721EB4A7D27ABE45441A9 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_6_0 Label:LandscapeStreamingProxy_3_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=25200.000 Z=100.000), Max=(X=0.000 Y=37800.000 Z=2982.031) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:8E1C540849012E7075E54BBCC8E8E177 BaseClass: NativeClass:/Script/Water.WaterZone Name:WaterZone_UAID_A4BB6D5B14A8386302_1754765896 Label:WaterZone SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-50400.000 Y=-50400.000 Z=-50400.000), Max=(X=50400.000 Y=50400.000 Z=50400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Water FolderGuid:60540B084B80BD9F18C62EACDE0846F9
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:9053D143437C0C71F92A92BCE0FA31D0 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_-2_-1 Label:InstancedFoliageActor_1_-2_-1 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=-51200.000 Z=-25600.000), Max=(X=51200.000 Y=-25600.000 Z=0.000) Runtime:IsValid=true, Min=(X=33260.327 Y=-34627.443 Z=-59.810), Max=(X=33658.734 Y=-33442.301 Z=114.462)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:92AB9A584FD5EBC91E6D3AA8FC541341 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_4_0 Label:LandscapeStreamingProxy_7_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=0.000 Z=366.406), Max=(X=50400.000 Y=12600.000 Z=2952.344) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:94E61C4F4C3F9CC146DCADA2DCB78E35 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_3_0 Label:LandscapeStreamingProxy_6_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-12600.000 Z=585.156), Max=(X=37800.000 Y=0.000 Z=2171.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:94F3BB014E441BEF71003CAF022992CF BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_3_0 Label:LandscapeStreamingProxy_1_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-12600.000 Z=1048.438), Max=(X=-25200.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:97A2A87D4586516E4D1A7492D156FD56 BaseClass: NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A4BB6D5B14A8FF6202_1793400867 Label:SkyAtmosphere SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19430.000), Max=(X=0.000 Y=0.000 Z=19430.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:987CBFA344FC699C23398497BC876A20 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_4_0 Label:LandscapeStreamingProxy_6_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=0.000 Z=364.062), Max=(X=37800.000 Y=12600.000 Z=2176.562) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:98F7E03745607873047769B1DA020293 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_0_0 Label:LandscapeStreamingProxy_1_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-50400.000 Z=517.188), Max=(X=-25200.000 Y=-37800.000 Z=3675.781) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:9AD9B6F3438DD9F85A634E9608D9409A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_2_0 Label:LandscapeStreamingProxy_0_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-25200.000 Z=121.094), Max=(X=-37800.000 Y=-12600.000 Z=2400.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:9B39EAC941C5BCE6D6C119A907822990 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_5_0 Label:LandscapeStreamingProxy_7_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=12600.000 Z=366.406), Max=(X=50400.000 Y=25200.000 Z=2845.312) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:9CEC33A4423B48DCE99D8F9C8A97986B BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_6_0 Label:LandscapeStreamingProxy_5_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=25200.000 Z=-412.500), Max=(X=25200.000 Y=37800.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:9DA52A2A43FD2955AAA764B41FFE92D8 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_5_0 Label:LandscapeStreamingProxy_1_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=12600.000 Z=386.719), Max=(X=-25200.000 Y=25200.000 Z=2212.500) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:A1833DD34B2D245F971AF7B4DE2AD62F BaseClass: NativeClass:/Script/Water.WaterBodyCustom Name:WaterBodyCustom_UAID_A4BB6D5B14A83D6302_1854162777 Label:WaterBodyCustom2 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-17592.000 Y=-34512.000 Z=-1707.500), Max=(X=-6008.000 Y=-22928.000 Z=5312.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:A1E2AE8F4D91EF0CF11AFDA6FFE8DD71 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_4_0 Label:LandscapeStreamingProxy_4_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=2071.094), Max=(X=12600.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:A4A1998541124618C9BC8D9E96D87B40 BaseClass: NativeClass:/Script/Engine.VolumetricCloud Name:VolumetricCloud_UAID_A4BB6D5B14A8FF6202_1889464870 Label:VolumetricCloud SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=19100.000), Max=(X=0.000 Y=0.000 Z=19100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:A6885A55431423E201959487CD0E777E BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_7_0 Label:LandscapeStreamingProxy_5_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=37800.000 Z=-188.281), Max=(X=25200.000 Y=50400.000 Z=2984.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:A805570B45260206B986258EF6189907 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_0_0 Label:InstancedFoliageActor_1_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=0.000 Z=0.000), Max=(X=51200.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25188.520 Y=-298.750 Z=352.877), Max=(X=50835.371 Y=25886.149 Z=3491.158)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:ABABA227400C737B53BF1C8C43520677 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_5_0 Label:LandscapeStreamingProxy_5_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=12600.000 Z=1319.531), Max=(X=25200.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:ADEB6563439768C33BCB17BC17804400 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_-1_0 Label:InstancedFoliageActor_-2_-1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=-25600.000 Z=0.000), Max=(X=-25600.000 Y=0.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50884.406 Y=-25934.358 Z=83.221), Max=(X=-32063.345 Y=353.429 Z=5455.637)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:AF1EEC904C80F953054ECE90EB456BE4 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_5_0 Label:LandscapeStreamingProxy_6_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=12600.000 Z=366.406), Max=(X=37800.000 Y=25200.000 Z=2954.688) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:AF714B164CCA7E2DF7A2AFBA920DEE37 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-1_-2_0 Label:InstancedFoliageActor_-1_-2_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-25600.000 Y=-51200.000 Z=0.000), Max=(X=0.000 Y=-25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-26086.756 Y=-47038.883 Z=742.414), Max=(X=311.434 Y=-40650.426 Z=4606.249)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:B070246D4C355A0BC660AD897C3853F1 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_0_0 Label:LandscapeStreamingProxy_4_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-50400.000 Z=494.531), Max=(X=12600.000 Y=-37800.000 Z=4638.281) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:B13AE6BB4F6F9A96322AAE85BE79212C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_2_0 Label:LandscapeStreamingProxy_2_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=42.188), Max=(X=-12600.000 Y=-12600.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:B33DDDD6466B93A1D5E0BB861C58B110 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_5_0 Label:LandscapeStreamingProxy_0_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=12600.000 Z=66.406), Max=(X=-37800.000 Y=25200.000 Z=3861.719) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:B83C6BB848A16D2337097999E9267804 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_7_0 Label:LandscapeStreamingProxy_6_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=37800.000 Z=653.125), Max=(X=37800.000 Y=50400.000 Z=3828.125) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:B93085104A859BEB4368F0851F09F96B BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-2_0_0 Label:InstancedFoliageActor_-2_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-51200.000 Y=0.000 Z=0.000), Max=(X=-25600.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-50910.034 Y=-460.081 Z=41.330), Max=(X=-25294.485 Y=25977.380 Z=6263.006)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:BA9C81E841ACF2EA1EBBB3BF9557CBC4 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_0_0 Label:InstancedFoliageActor_0_0_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=25600.000 Y=25600.000 Z=25600.000) Runtime:IsValid=true, Min=(X=19817.655 Y=12111.286 Z=1241.375), Max=(X=25948.327 Y=25884.288 Z=2580.967)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 69]
+ |   |   |   |- Guid:BB94BE02482958582DED029E187D7783 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_1_0 Label:LandscapeStreamingProxy_1_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=-37800.000 Z=1139.844), Max=(X=-25200.000 Y=-25200.000 Z=3129.688) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 70]
+ |   |   |   |- Guid:BBCC7B6E401C99332955E19B245D4706 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_1_-1 Label:InstancedFoliageActor_0_1_-1 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=25600.000 Z=-25600.000), Max=(X=25600.000 Y=51200.000 Z=0.000) Runtime:IsValid=true, Min=(X=14626.167 Y=33107.265 Z=-453.239), Max=(X=21267.084 Y=38818.697 Z=514.173)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 71]
+ |   |   |   |- Guid:C5C6C1F44CC4B885209C75AA0639BB74 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_1_0 Label:LandscapeStreamingProxy_6_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-37800.000 Z=-57.812), Max=(X=37800.000 Y=-25200.000 Z=3669.531) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 72]
+ |   |   |   |- Guid:C7DDE32E46ADF02F8CCC4F9D5C8B8F8B BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_-1_1_0 Label:InstancedFoliageActor_-1_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=-25600.000 Y=25600.000 Z=0.000), Max=(X=0.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-25944.288 Y=25349.178 Z=84.910), Max=(X=342.920 Y=50532.248 Z=4492.583)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 73]
+ |   |   |   |- Guid:CFAF4B4C40AE2CD523B134B46C515016 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_3_0 Label:LandscapeStreamingProxy_5_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-12600.000 Z=1499.219), Max=(X=25200.000 Y=0.000 Z=2271.875) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 74]
+ |   |   |   |- Guid:D3DE25404BA4FF36B31A6FBE9C47DB20 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_7_0 Label:LandscapeStreamingProxy_7_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=37800.000 Z=799.219), Max=(X=50400.000 Y=50400.000 Z=4689.062) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 75]
+ |   |   |   |- Guid:D976AA7C413A13067EB507A3C98CB8A3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_1_0 Label:LandscapeStreamingProxy_7_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-37800.000 Z=1295.312), Max=(X=50400.000 Y=-25200.000 Z=8785.156) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 76]
+ |   |   |   |- Guid:DAFDEC9E4F9321B175826FBB0C19C5C2 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_3_0 Label:LandscapeStreamingProxy_3_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-12600.000 Y=-12600.000 Z=2071.094), Max=(X=0.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 77]
+ |   |   |   |- Guid:E0513743425D06CFEAD103A5FEB40D35 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_3_0 Label:LandscapeStreamingProxy_0_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-50400.000 Y=-12600.000 Z=167.969), Max=(X=-37800.000 Y=0.000 Z=4984.375) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 78]
+ |   |   |   |- Guid:E199A92E43FC950F0FE73B871FC4BA5C BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_1_0 Label:LandscapeStreamingProxy_4_1_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-37800.000 Z=921.875), Max=(X=12600.000 Y=-25200.000 Z=2294.531) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 79]
+ |   |   |   |- Guid:E5FD14034007E2C404CD9B87E0CBCAA2 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_3_0 Label:LandscapeStreamingProxy_4_3_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-12600.000 Z=2071.094), Max=(X=12600.000 Y=0.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 80]
+ |   |   |   |- Guid:E6B5B48744A69276D8D8C6BD1B011C64 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_4_0 Label:LandscapeStreamingProxy_2_4_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=0.000 Z=2071.094), Max=(X=-12600.000 Y=12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 81]
+ |   |   |   |- Guid:E71D9B68417B71FF50EDCF9F15A8BEB3 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_7_0 Label:LandscapeStreamingProxy_2_7_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-25200.000 Y=37800.000 Z=135.938), Max=(X=-12600.000 Y=50400.000 Z=2272.656) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 82]
+ |   |   |   |- Guid:EBB7B2FA4033499CD7AA72B04ECBA40D BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_6_0 Label:LandscapeStreamingProxy_4_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=25200.000 Z=307.031), Max=(X=12600.000 Y=37800.000 Z=2171.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 83]
+ |   |   |   |- Guid:EC92345545112844EC88678BBC1FCFAE BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_5_0 Label:LandscapeStreamingProxy_4_5_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=12600.000 Z=2071.094), Max=(X=12600.000 Y=25200.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 84]
+ |   |   |   |- Guid:EFBA4D174F2906BFBF62EB8C6CA9BFC6 BaseClass: NativeClass:/Script/Engine.DirectionalLight Name:DirectionalLight_UAID_A4BB6D5B14A8FF6202_1739731865 Label:Sun_1 SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Air FolderGuid:E71507EF45DB7139CD3D5AB793340B83
+ |   |   |- [+] [ 85]
+ |   |   |   |- Guid:F1BAD0B14621E6985AFBA78FDF6F2FC6 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_0_0 Label:LandscapeStreamingProxy_5_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=12600.000 Y=-50400.000 Z=338.281), Max=(X=25200.000 Y=-37800.000 Z=6628.906) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 86]
+ |   |   |   |- Guid:F3893454490CF42180CEDB95634C4240 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_2_0 Label:LandscapeStreamingProxy_4_2_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=0.000 Y=-25200.000 Z=2071.094), Max=(X=12600.000 Y=-12600.000 Z=2271.094) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 87]
+ |   |   |   |- Guid:F4975FF846BD875BF3E884AC4F1097A1 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_0_1_0 Label:InstancedFoliageActor_0_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=0.000 Y=25600.000 Z=0.000), Max=(X=25600.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=-503.995 Y=25231.643 Z=-178.893), Max=(X=26030.467 Y=50611.493 Z=3973.460)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 88]
+ |   |   |   |- Guid:F77ABB1546C8959E2CA13492B2FF20B4 BaseClass: NativeClass:/Script/Landscape.Landscape Name:Landscape_UAID_A4BB6D5B14A8FF6202_1654773864 Label:Landscape SpatiallyLoaded:0 Bounds:IsValid=true, Min=(X=-50400.000 Y=-50400.000 Z=100.000), Max=(X=-50400.000 Y=-50400.000 Z=100.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 89]
+ |   |   |   |- Guid:F8B935854F8D3C44CA66AC912BD630C9 BaseClass: NativeClass:/Script/Foliage.InstancedFoliageActor Name:InstancedFoliageActor_25600_1_1_0 Label:InstancedFoliageActor_1_1_0 SpatiallyLoaded:1 Bounds:(Editor:IsValid=true, Min=(X=25600.000 Y=25600.000 Z=0.000), Max=(X=51200.000 Y=51200.000 Z=25600.000) Runtime:IsValid=true, Min=(X=25110.358 Y=25189.184 Z=213.494), Max=(X=50724.308 Y=50667.537 Z=5012.986)) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0 FolderPath:Land FolderGuid:74CEB5304096227E9FB71192395D8DC9
+ |   |   |- [+] [ 90]
+ |   |   |   |- Guid:FA1E598142936CD093E868BFD8A7907A BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_0_0 Label:LandscapeStreamingProxy_6_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=25200.000 Y=-50400.000 Z=510.938), Max=(X=37800.000 Y=-37800.000 Z=6794.531) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 91]
+ |   |   |   |- Guid:FBA9E11C4640EB234F1A9EBC3228DFDF BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_6_0 Label:LandscapeStreamingProxy_1_6_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-37800.000 Y=25200.000 Z=265.625), Max=(X=-25200.000 Y=37800.000 Z=3342.969) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [ 92]
+ |   |   |   |- Guid:FE6DA1A84685326DC9EFAA9E2961F1D5 BaseClass: NativeClass:/Script/Landscape.LandscapeStreamingProxy Name:LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_0_0 Label:LandscapeStreamingProxy_7_0_0 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=37800.000 Y=-50400.000 Z=1092.969), Max=(X=50400.000 Y=-37800.000 Z=6948.438) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-50910.034 Y=-50400.000 Z=-1707.500), Max=(X=50835.371 Y=50667.537 Z=9196.407)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/_Content/Maps/DesertVillage
+----------------------------------------------------------------------------------------------------------------
+DesertVillage - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of DesertVillage Persistent Level
+ |- Always loaded Actor Count: 10 
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.DirectionalLight_UAID_A4BB6D5B14A8FF6202_1739731865
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/3/NL/VGAITJBZ08LWZHK5FY043A
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.DirectionalLight_UAID_A4BB6D5B14A8FF6202_1811916868
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/4/TS/6UTLF5R5VURC1GBZ3MYLM1
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.ExponentialHeightFog_UAID_A4BB6D5B14A8FF6202_1782532866
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/Q9/KD52YB2AAT2F8THOHMXLMQ
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.Landscape_UAID_A4BB6D5B14A8FF6202_1654773864
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/B8/C24M95H5BFLE3D48WX0C5B
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.PlayerStart_UAID_A4BB6D5B14A8FF6202_1950829871
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/C3/HVKCCFIYKWG67PYUIVFZFW
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.SkyAtmosphere_UAID_A4BB6D5B14A8FF6202_1793400867
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/2/P0/77K8HTI48RVNDG273QGW87
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.SkyLight_UAID_A4BB6D5B14A8FF6202_1854736869
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/DK/QD0H7E53C8Y35EACV4TC85
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.VolumetricCloud_UAID_A4BB6D5B14A8FF6202_1889464870
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/D/DC/WW86YEM9MJRB5GGH1I4C2L
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.WaterZone_UAID_A4BB6D5B14A8386302_1754765896
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/LD/CGDSE3S5X2H6A968WRVU1Y
+ |- Actor Path: /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/EW/ADRYCU2OLAMRJGMUUD2I7E
+
+----------------------------------------------------------------------------------------------------------------
+DesertVillage - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell DesertVillage_MainPartition_-1_-1_0_2 (00PFGAK0S8SPCPTHQ0ERBXI68)
+ |- Actor Count: 2
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-2_-1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/3/U0/B986AML6VE66FF5G2HFTDF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: ADEB6563439768C33BCB17BC17804400
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-1_-2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/3/MN/HUDI8MLNH1YPFUVNF849G9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AF714B164CCA7E2DF7A2AFBA920DEE37
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_1_0_0 (06VCTHT46JNSBF9Q2E1O6HEU3)
+ |- Actor Count: 2
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/56/URXAC55I620A5KB4HT45W6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7A7DD373489EDF210F84CDB4D76A4C8E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/WS/6G7AMTQ89A3YB7F1C3A38F
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 85A8A1F5473CD922C93A319DB6385767
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_-1_0_0 (0D4IDOOPUGTRPKHOSCR8RAHDW)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/EZ/EEIF5J3VQ0ZK0QKRYB1U6X
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2C271376480A99833409C7A859E680E2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_-2_0_0 (0D6DHHFIJEP6IUL7T406EJLU8)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/0/LL/7769YLT3E04M2M2IFYGZ0S
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5BF34DFB4182D341C68546B365DA394E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_-4_0_0 (0RMZP9VZG17X9ZC7P0FB3I3IB)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/ZH/GZCBCWEHQ108XIG64YSKF6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 19F0185A4AEF6F18022D108095C44019
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_2_0_0 (0TKUPY0B07DE8RBFC3YAUROIR)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/1Q/36JG8IGJ2AQK38M45UL744
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3577A16048FE709680A8829F6128F652
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_1_0_0 (1976I2I8NV2HU02QJ0VNANAZN)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/BF/4HU8TT0Z8BKMZ2QR0S9921
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EC92345545112844EC88678BBC1FCFAE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_2_0_0 (1HI6LDJ2LBK00XD8943TSLTSB)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/E/I7/XJ20W0HG6MTN3UOF5OOKEI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8BC23D554F1721EB4A7D27ABE45441A9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_1_0_0 (1TBPHXGLSBM6FB3DNW2IAQ9N5)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/6/BC/Z4NCQXOQOBXQU80GWMVMTX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3A9542B6456D4E2E42126DB06C9C0405
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_2_0_0 (1VY2P1OQB7BAVB1X46TRAJUQR)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/3/D6/X8UOGVHJXEBX319NQ40921
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0E42FE444FCA8CEABA4497B96AA645F9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_-3_0_0 (20LWS0O1U7MCMJEPPY2PFE0G7)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/NQ/JCVB7J8I28L7VEKZWNTJTZ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E199A92E43FC950F0FE73B871FC4BA5C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_-2_0_0 (21B8MAGC0M65LIEWBFZ8EBUJW)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/9/NM/3F44SC5J1DL0ZHVSYPXU4U
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9AD9B6F3438DD9F85A634E9608D9409A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_0_0_0 (232NS99RZHC47WW45K2TAF71H)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/5F/YO1T6IDZFEARJ07V3ELFJ5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 92AB9A584FD5EBC91E6D3AA8FC541341
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_-4_0_0 (270UX2G2L0I5ZHW76QJG4Z96H)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/AT/4WY3YCQVLHQ5OEGMVTVUK8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4B54095B49C267623AE434BDBA25E914
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_-1_0_2 (29BW1NO0OSCJXOG0TMEKI2FK5)
+ |- Actor Count: 2
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_1_-1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/E/JX/DNEYDH9NU5098CPKNG6M72
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 058B25134A896F628777079EC35111FD
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_0_-2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/3/0J/Z98HPQGC2S6GLNDBSXVJRA
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8229B2634251ABE43FB18583A23197C0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_-1_0_0 (2FEGMNWPT39L00JMKVQTM5H5I)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/PB/UXA5J9OHXNZ6W4VG3CBAMI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 94F3BB014E441BEF71003CAF022992CF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_2_0_0 (2MGFMV0SPW6FNEZO4JXOBZVTW)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/6/M1/BBMKFSAFSMPT9MZGOE0YU5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FBA9E11C4640EB234F1A9EBC3228DFDF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_-2_0_0 (314P1FEFDGORSFA1IBDOFVK6Y)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/1Z/PRUEA7KAX9MI4F2FQ8808J
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5D1FB04444A092C912D1F58AF7B70B45
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_3_0_0 (37LGSQ9RT15XKVN17ORMW76QJ)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/6/JU/DU3P9V7OJ7RR5ODB92P803
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B83C6BB848A16D2337097999E9267804
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_-1_0_0 (3P8A7FYHD52TYHQIJTJSKC2FL)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/Y7/PUVVOU9JOWSHN7OQPAZ1WC
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: CFAF4B4C40AE2CD523B134B46C515016
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_0_0_0 (3XHS2UYZF7HQ19RUFNIYHEGSI)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/0/C4/QHQJBX0NA3AEK1BFSIES9O
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A1E2AE8F4D91EF0CF11AFDA6FFE8DD71
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_-2_0_0 (4OEXMJ1PY2I5SJW53YLNIWEY1)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/ZB/0XYAL784DLNMMSBOO825O0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 80DD9B6E4BBCFC8EB588E5BF9EE7E594
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_2_0_0 (4YIG18ZDKU2JWGZT8Y9C3SV61)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/39/COIELRDD2NDK8MLVIBVUUC
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2529874444BDE610833E3A97FCA9B680
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_-4_0_0 (4Z3DF0IXGSI8DWWDSM0DWD4J3)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/SX/8NX6FDDKH1SU73LJUI5JH5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FE6DA1A84685326DC9EFAA9E2961F1D5
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_0_0_2 (54310ZJH9T5MT010MYMZ5BCGY)
+ |- Actor Count: 3
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_1_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/6/JC/G4OL9ZEPCU6LBTXUTPGVKE
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A805570B45260206B986258EF6189907
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_0_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/YQ/00348N4RHSDSXIDUVULUDV
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F4975FF846BD875BF3E884AC4F1097A1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_1_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/0/LH/8STPKGJ96EUC584ZIFUOE9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F8B935854F8D3C44CA66AC912BD630C9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_0_0_0 (5DRIHEY5V8LB9NXGFL4MNOSTW)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/F8/DMM5DRYMPN0VO3F7W0N40Y
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 987CBFA344FC699C23398497BC876A20
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_-1_0_0 (5LDVVSBPJBTA79B2M9I4GILWO)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/5/Q3/7GDNSCBLEE1J8B8BPHCY54
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E5FD14034007E2C404CD9B87E0CBCAA2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_3_0_0 (5UNKFK5242RCU0KBCWPURTSKV)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/6/1Y/E0NW30PLEKZTYNG758WZGB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 15F794AA49B41D52DB359298744628B6
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_3_0_0 (66I45YVBLK5J22YX6UEL4GDNF)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/YO/7D5HNTQI4AQ6VH59G00NF7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0271FEDA4F437821468488A31BEB0AD9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_-3_0_0 (6AV7CZZ517EHZ58L34JW8A9FE)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/4/Z3/BDSRU8GRZXKVPSW54PJUW0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BB94BE02482958582DED029E187D7783
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_-2_0_0 (6YXRGPSWZI6SDZUAY3KEI3AUV)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/HB/227BXB4W67TQ3KKSI6CQQU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7AF7ED044F0AEAF97BF0C9BAD7442CCE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_2_0_0 (76FDBUIB8DZU6EO2ZHTZETAND)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/B9/R5Z6YN2RZITQ5WVCNIYZIF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 34B6C3704B5DBED5357905A9AFAAEE90
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_1_0_0 (7HS1TG1CXJLMZ88DWRTR8X4OY)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/KD/B5HAIOJMCQPWMN4A4ZTHP2
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AF1EEC904C80F953054ECE90EB456BE4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_-3_0_0 (7OS1FKNA69TRDEW5SY0NVPA3A)
+ |- Actor Count: 2
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/W1/CFMM143C2LDGP3ATN8OZI1
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0B7B507A4FBC9BECDD0A689BB1786310
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-2_-2_-1
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/B/JG/PFVMK2RV929TAFKPPCNTU7
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 438CE91C4E6AE2D8E505FC9202871898
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_-4_0_0 (8959H0C92NC81SB3KWMOGC9DN)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/0/15/QN2VZPYO02PM98WKVZ2DNT
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 98F7E03745607873047769B1DA020293
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_2_0_0 (8NBYSNOSZS32Q85PCO96Q7U12)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/TM/CY2W7NZA27MZBLHV6HIPI4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EBB7B2FA4033499CD7AA72B04ECBA40D
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_0_0_0 (924N2I059D3FA32NHOVLS621K)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/D/55/BZ77MBAZ7KAM4YM0EXMAEJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 75A4F7DA4F41F6B8532EBCB91BC8C962
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_0_0_0 (96XCAQRD9I77ANMMO9J0NHZGY)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/70/V6IUUFEB03FNNCAON6RBS0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 722A629E4C7B8F0BFEB00FBC37AAB78F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_0_0_0 (9BC6LSB4NJO53ZNERX4YZASJF)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/LP/TF2MSNQSDOH4P02OWZ76BM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E6B5B48744A69276D8D8C6BD1B011C64
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_-3_0_0 (9N8WUOUYMDAABYKHXS8UEOCTG)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/7M/TW28VPCVRU1W11S9VZH7I6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7B23BBAF46ACA61C56F863ADBBCE9743
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_1_0_0 (9P4Z5MMNPG2SGQ2RNVVE5JVNT)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/PI/ETAGBJOAFZMWCZUEQZLMMV
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: ABABA227400C737B53BF1C8C43520677
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_-4_0_0 (9V84AVR6M70YNJR3AC1KYRY5P)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/2H/PYF2GQIE83EGPIBPX2IX0X
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: FA1E598142936CD093E868BFD8A7907A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_0_0_2 (9XRXR5KAN49IXWLWM3JE4W2VD)
+ |- Actor Count: 3
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-2_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/P4/97KZOLA4L62LVGWZ6FRR56
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 04079B0A4C159311783614BB92F70840
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-2_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/3/NN/9TL96ALEN5A2M4J0ZSG670
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B93085104A859BEB4368F0851F09F96B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-1_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/CS/3FRWOV6QZ6RKMHHSUDEWTI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C7DDE32E46ADF02F8CCC4F9D5C8B8F8B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_3_0_0 (9Y1X9NJTYL0CPONLZK3J9KGEZ)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/Z1/U2PB914NN93Y67ZZFA6FYE
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3BF8F5D542247CDCCA12E885C0FF54C5
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_-2_0_0 (9YDTTJ8TWT9SLSXDKLOF9E1QB)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/5J/SO5PLTDXYV1646T2V4PALX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B13AE6BB4F6F9A96322AAE85BE79212C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_1_0_0 (A3JV678SF9406N5E8UDVX7IVQ)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/0/BJ/XYMZFREQIERRB52021XEP0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B33DDDD6466B93A1D5E0BB861C58B110
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_0_0_0 (A71YV2G8GDYX7WLWXN9XXL01L)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/TL/U1MNEK9SPC5KDCPUSDNMBS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7F6496894D75B0D7F5A33AB273763CDE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_-3_0_0 (ACUKV43T5DV4A0AAK8LDCEZAC)
+ |- Actor Count: 2
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_1_-2_-1
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/2A/JPX7IKCE792N0GU7AN7F3V
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9053D143437C0C71F92A92BCE0FA31D0
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/X8/UVUN310BD96KA1LMHQI9HI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C5C6C1F44CC4B885209C75AA0639BB74
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_3_0_0 (AFOZ105AH6AMZDRSBOKGJ76U6)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/V8/88UEKI0ZLUNSDJV2YC93AR
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A6885A55431423E201959487CD0E777E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_-1_0_1 (AH6BPSZ6LOA2Z68IHDXVGCSDU)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/3/YU/1MCTY69LDNNC4165UTJEWP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4C4B79894A4112D98C7D95B5AD1FEFC1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_2_0_0 (AMZNYIJTCWI3V6EMTMSYYEZFK)
+ |- Actor Count: 2
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_6_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/D/DU/DQM5YFD2LMXDADXI7QE80U
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9CEC33A4423B48DCE99D8F9C8A97986B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_0_1_-1
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/9/4S/23N4JW9JS0JJIN5HXKFQA4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BBCC7B6E401C99332955E19B245D4706
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_3_0_0 (AYNU8CE8CBLP642AR2OEZSNB2)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/0/WV/LCZM597G6ZAS80NC57FQWB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 8B46BBC3477A778887E170BC36BB0BFC
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_-1_0_0 (B9N7S9KDDX686QCSU79DOUI6J)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/D/4H/PEHAD65IRDL8ZV1D69WULA
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E0513743425D06CFEAD103A5FEB40D35
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_-2_0_1 (BAAFMK8CGXVWQJWRGLE40P9XR)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_1_-2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/B/Z1/2C0N0ZHL0A78MUP6XEQC5J
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7F58C79B4CC875108A721C9AC4BB6F9A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_-4_0_0 (BGD8PKZK70ON33YJ7QT2RQZP0)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/2/WO/RJHUWPEP4XD2PWUV4INOBJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F1BAD0B14621E6985AFBA78FDF6F2FC6
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_-3_0_0 (BSA1OHM4DQXOUNTD8NOUITNQO)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/EW/50EHQXDYT4L5DNVNCKNX9O
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 76049AA6491D97E3C9FA1C855DB94D50
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_2_-1_0_0 (BSDZKFF9X96TUK153TF1IYT58)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_6_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/5/TO/9JAASB1Z387SYN0BURD76U
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 94E61C4F4C3F9CC146DCADA2DCB78E35
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_-2_0_0 (BWJ4I5YRX7H3FD26U6HEBOR2F)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/E/SF/H18JWYL0TTLO1GFRJ8VSVX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F3893454490CF42180CEDB95634C4240
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-4_-4_0_0 (CG090F6LB4YOH0WTONFLTTU0D)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_0_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/5/5Y/8KXSX8J4N31YN41J01O8XS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 20EC44D34601D5D8313594B0568BA020
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_1_0_0_0 (CMHF1H4CNH1S4ZWDBSRI3WLI3)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_5_4_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/4/J7/WHC0ZZW6UJUODWLWZVITO5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7407E0E54F5EDCEFB2A040B336D7B869
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_-1_0_0 (CN0HFX0DJOT0TTANWTMJLA8ST)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/D/QI/GG0S8ZTOGU9U8NYRYRKYAV
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 07B3ED4446C1317ED93DB2B8B9F04021
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_3_0_0 (CZ1DL6O714THCGUEFFJ3CMCJ7)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/8/B3/23D7DIN9CRI1919E0675NY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D3DE25404BA4FF36B31A6FBE9C47DB20
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_-2_0_0 (D0YB6BMPYWRD8JSH5K02YO3CR)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/NR/L7IGSKBUFD4FCUP8N1DAQH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 408DD2BE413AC1C7A42ED4B76561090E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-3_1_0_0 (D19AG5TJ91CCP3KMV37B5I8RW)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_1_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/9/3V/23BL3S6IBMZBQ7UX13NF2L
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9DA52A2A43FD2955AAA764B41FFE92D8
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_-3_0_0 (DBSNMZ2XT63K9Q1OA50QJG9J9)
+ |- Actor Count: 2
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/9/VK/HIHP1YYRU3SJKAEEPHXOV4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4FA5B84448C941D9F05C16B0AF196091
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.WaterBodyCustom_UAID_A4BB6D5B14A83D6302_1854162777
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/TH/D6C2I7PH752MUHHWTPL4L6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A1833DD34B2D245F971AF7B4DE2AD62F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_-4_0_0 (DOYKVQOX91BE3YSO1W58U0BD1)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_4_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/C/1Y/0XLEHQHZ6CP3OZFWGJVB0W
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B070246D4C355A0BC660AD897C3853F1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_3_0_0 (DQ7KAKOOROM5T21BJ426DAROU)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_2_7_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/0/6J/D57PMB32GN0NQIXFBU0RIM
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: E71D9B68417B71FF50EDCF9F15A8BEB3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_0_0_0_1 (DWJ6UZCTGXEMAVZR3643AYU6S)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/1P/5OGLCM43F0M6ZVVHI8D67V
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BA9C81E841ACF2EA1EBBB3BF9557CBC4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-1_-1_0_0 (EAYJZAYQ62IVYX1RYGPLSJEN3)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_3_3_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/7/0L/8JVIFFL2H4HLPSOREL9XV8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: DAFDEC9E4F9321B175826FBB0C19C5C2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_-2_-2_0_1 (ELW59Z57WYHC27J7Y6N89255J)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.InstancedFoliageActor_25600_-2_-2_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/1/PR/BV3E3WZGPP706OY2UO5B3Q
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 365D4E3C44766D05AF8183A339957853
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_-3_0_0 (EPUS73FPJXO8U8R2UMDKGUT2W)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_1_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/2/XM/1DWLE7GADAIO1VE2PJ8SF5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: D976AA7C413A13067EB507A3C98CB8A3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell DesertVillage_MainPartition_3_1_0_0 (EVW4MEOLK6XNVBWCJQMXALJBY)
+ |- Actor Count: 1
+ |- [+] /Game/_Content/Maps/DesertVillage.DesertVillage:PersistentLevel.LandscapeStreamingProxy_0ZON75L3USG61JQJ4F9TR6ZAV_126_7_5_0
+ |   |-         Package: /Game/__ExternalActors__/_Content/Maps/DesertVillage/A/XQ/XJCHAEHE575EQLDP33QB9C
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9B39EAC941C5BCE6D6C119A907822990
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
