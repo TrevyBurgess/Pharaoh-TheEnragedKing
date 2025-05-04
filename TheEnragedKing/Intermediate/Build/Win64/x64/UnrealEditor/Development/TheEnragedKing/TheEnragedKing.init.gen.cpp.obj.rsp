@@ -1,11 +1,13 @@
 "D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\UnrealEditor\Inc\TheEnragedKing\UHT\TheEnragedKing.init.gen.cpp"
-/FI"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\TheEnragedKingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\TheEnragedKingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
 /FI"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheEnragedKing\Definitions.TheEnragedKing.h"
-/Yu"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\TheEnragedKingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
-/Fp"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\TheEnragedKingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Yu"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\TheEnragedKingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\TheEnragedKingEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
 /Fo"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheEnragedKing\TheEnragedKing.init.gen.cpp.obj"
+/experimental:log "D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheEnragedKing\TheEnragedKing.init.gen.cpp.sarif"
 /sourceDependencies "D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheEnragedKing\TheEnragedKing.init.gen.cpp.dep.json"
 @"D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\x64\UnrealEditor\Development\TheEnragedKing\TheEnragedKing.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

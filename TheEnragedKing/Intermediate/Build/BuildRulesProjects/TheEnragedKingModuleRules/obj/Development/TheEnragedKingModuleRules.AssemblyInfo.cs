@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheEnragedKingModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa4a36cce8ba8aa4fa95a8645917d362d7db74c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8805406a61c829f3235ec34797efa64513ff9727")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheEnragedKingModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheEnragedKingModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

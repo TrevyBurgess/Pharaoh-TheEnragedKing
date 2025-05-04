@@ -48,53 +48,65 @@ For the second sun, change these to 1
 ## 3rd Party Libraries
 
 1. Bazaar_Meshingun----------: The Bazaar
-1. BlackAlder----------------: European Black Alder
+1. BlackAlder----------------: European Black Alder (Megascans Trees: European)
+1. DesertDragon--------------: Desert Dragon
 1. Elite_Landscapes----------: Elite Landscapes: Bundle Pack
 1. EnvironmentPack2----------:
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
-1. Infinity Blade------------: Template
-1. MesoamericaConstructions--:
+1. MesoamericaConstructions--: Ancient Constructions and Platforms
 1. TemplesOfCambodia---------: [VP] Temples of Cambodia - Ruins exterior and interior
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
 
+1. - Infinity Blade------------: InfinityBladeAdversaries,
+1. - Infinity Blade------------:
+1. - Infinity Blade------------:
+1. - Infinity Blade------------:
+1. - Infinity Blade------------:
+1. - Infinity Blade------------:
+1. - Infinity Blade------------:
+1. - Infinity Blade------------:
+1. - Infinity Blade------------:
 
+## Plugins
 
+1. Water plugins
+1. PCG Extended Toolkit (PCGEx)
+1. Nanite Displacement Mesh
 
+## Fix for trees going up and down
 
+[Unreal Engine 5 Foliage Bug: FIX Weird Stretching Tree Movement](https://unrealstack.com/how-to-use-ue5-nanite-tessellation/)
 
+1. Search for: MF_SimpleWind
+1. Open blueprint
+1. Under "Main Rotator", open "ObjectPivotPoint"
+1. Select "TransformPosition"
+1.1. Set "Source" = "Instance & Particle Space"
+1.1. Set "Destination" = "Absolute World Space"
+1. Save
 
+## Configuration - DefaultEngine.ini
 
+[UE5 Nanite Tessellation](https://unrealstack.com/how-to-use-ue5-nanite-tessellation/)
 
+1. [Material texture](https://www.youtube.com/watch?v=oRDmp0RLy7Q)
+1. Go to [/Script/Engine.RendererSettings]
+1. Add: r.Nanite.AllowTessellation=1 -> r.Nanite.AllowTessellation 1
+1. Add: r.Nanite.Tessellation=1 ------> r.Nanite.Tessellation 1
+1. In console, enter replacing = with space
+1. Enable Nanite in Landscape
 
+For ORM textures...
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. R -> Ambient Occulsion
+1. G -> Roughness
+1. B -> Displacement
 
 ## Project Settings
 
 Rendering
 Shadow Map Method: Virtual Shadow Maps -> Shadow Maps
 Anti-aliasing method: Temporal Super-Resolution(TSR) -> Temporal Anti-aliasing (TAA)
-
 
 ---------------
 Fantasy Cave Environment Set
@@ -157,7 +169,9 @@ This is a list of installed libraries...
 3. Third Person
 4. Virtual Reality
 
-## 3rd Party Libraries
+## 3rd Party Libraries dd
+
+s
 
 ### Audio > Music
 

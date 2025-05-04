@@ -11,6 +11,7 @@
     <None Include="..\..\Source\TheEnragedKingEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -38,17 +39,32 @@
     <ClCompile Include="..\..\Source\TheEnragedKing\TheEnragedKing.cpp">
       <Filter>Source\TheEnragedKing</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\TheEnragedKing\TheEnragedKing.h">
+    <ClCompile Include="..\..\Source\TheEnragedKing\TheEnragedKing.h">
       <Filter>Source\TheEnragedKing</Filter>
-    </ClInclude>
-    <Filter Include="Source\TheEnragedKing\Items">
-      <UniqueIdentifier>{8BDED8B8-9E9E-3729-8ADA-06E2FE430D36}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\TheEnragedKing\Items\Item.cpp">
-      <Filter>Source\TheEnragedKing\Items</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\TheEnragedKing\Items\Item.h">
-      <Filter>Source\TheEnragedKing\Items</Filter>
-    </ClInclude>
+    <ClCompile Include="..\..\Source\TheEnragedKing\TheEnragedKingCharacter.cpp">
+      <Filter>Source\TheEnragedKing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheEnragedKing\TheEnragedKingCharacter.h">
+      <Filter>Source\TheEnragedKing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheEnragedKing\TheEnragedKingGameMode.cpp">
+      <Filter>Source\TheEnragedKing</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TheEnragedKing\TheEnragedKingGameMode.h">
+      <Filter>Source\TheEnragedKing</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheEnragedKing\Private">
+      <UniqueIdentifier>{7A1303A9-B387-3A9E-A5E7-6023EC719D88}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheEnragedKing\Private\MyActor.cpp">
+      <Filter>Source\TheEnragedKing\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\TheEnragedKing\Public">
+      <UniqueIdentifier>{B9775762-BC23-35E7-9C24-8C5A3A04D070}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TheEnragedKing\Public\MyActor.h">
+      <Filter>Source\TheEnragedKing\Public</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
