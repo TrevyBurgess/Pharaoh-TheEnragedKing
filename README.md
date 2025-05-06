@@ -47,6 +47,7 @@ For the second sun, change these to 1
 
 ## 3rd Party Libraries
 
+1. 250+ Cute Princesses Avatars Icons BIG PACK
 1. Bazaar_Meshingun----------: The Bazaar
 1. BlackAlder----------------: European Black Alder (Megascans Trees: European)
 1. DesertDragon--------------: Desert Dragon
@@ -55,7 +56,11 @@ For the second sun, change these to 1
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
 1. MesoamericaConstructions--: Ancient Constructions and Platforms
 1. TemplesOfCambodia---------: [VP] Temples of Cambodia - Ruins exterior and interior
+1. Valley_Gul----------------: Valley of Guldur
+
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
+
+## Free Contente
 
 1. - Infinity Blade------------: InfinityBladeAdversaries,
 1. - Infinity Blade------------:
