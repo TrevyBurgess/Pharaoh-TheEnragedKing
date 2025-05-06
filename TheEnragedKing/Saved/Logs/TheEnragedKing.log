@@ -1401,3 +1401,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.05.06-21.00.32:818][ 16]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
 [2025.05.06-21.00.33:486][ 18]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-ufCy2KreoE2K9kaBvqBMCQ-VdlMNVC9U0Gc4jnGvX7vNQ]
 [2025.05.06-21.01.46:808][238]LogDerivedDataCache: C:/Users/Trevy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5845 files in 6867 folders with total size 504 MiB.
+[2025.05.06-21.03.35:238][564]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.05.06-21.03.46:657][912]LogRenderer: Warning: Nanite node buffer overflow detected. New high-water mark is 2161507 / 2097152. Increase r.Nanite.MaxNodes to prevent potential visual artifacts.
+[2025.05.06-21.03.46:724][913]LogRenderer: Warning: Nanite node buffer overflow detected. New high-water mark is 2286259 / 2097152. Increase r.Nanite.MaxNodes to prevent potential visual artifacts.
+[2025.05.06-21.03.46:809][914]LogRenderer: Warning: Nanite node buffer overflow detected. New high-water mark is 2322475 / 2097152. Increase r.Nanite.MaxNodes to prevent potential visual artifacts.
+[2025.05.06-21.03.46:960][916]LogRenderer: Warning: Nanite node buffer overflow detected. New high-water mark is 2337155 / 2097152. Increase r.Nanite.MaxNodes to prevent potential visual artifacts.
+[2025.05.06-21.03.47:035][917]LogRenderer: Warning: Nanite node buffer overflow detected. New high-water mark is 2356941 / 2097152. Increase r.Nanite.MaxNodes to prevent potential visual artifacts.
+[2025.05.06-21.03.47:332][921]LogRenderer: Warning: Nanite node buffer overflow detected. New high-water mark is 2357531 / 2097152. Increase r.Nanite.MaxNodes to prevent potential visual artifacts.
