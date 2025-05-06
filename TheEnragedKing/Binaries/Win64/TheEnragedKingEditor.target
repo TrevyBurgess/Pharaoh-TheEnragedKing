@@ -3770,6 +3770,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/Binaries/Win64/UnrealEditor-NaniteDisplacedMesh.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/Binaries/Win64/UnrealEditor-NaniteDisplacedMeshEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/PCGInterops/PCGWaterInterop/Binaries/Win64/UnrealEditor-PCGWaterInterop.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -30288,6 +30300,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/NaniteDisplacedMesh.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/PCGInterops/PCGWaterInterop/PCGWaterInterop.uplugin",
 			"Type": "UFS"
 		},
@@ -30795,6 +30811,7 @@
 		"NFORDenoise",
 		"NNEDenoiser",
 		"NNERuntimeORT",
+		"NaniteDisplacedMesh",
 		"Niagara",
 		"NiagaraFluids",
 		"NiagaraSimCaching",
