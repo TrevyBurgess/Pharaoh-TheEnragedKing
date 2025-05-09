@@ -55,6 +55,7 @@ For the second sun, change these to 1
 1. EnvironmentPack2----------:
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
 1. MesoamericaConstructions--: Ancient Constructions and Platforms
+1. ModularOldTown------------: Modular Old Town
 1. TemplesOfCambodia---------: [VP] Temples of Cambodia - Ruins exterior and interior
 1. Valley_Gul----------------: Valley of Guldur
 
