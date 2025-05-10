@@ -21,7 +21,7 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 
 For the second sun, change these to 1
 
-1. Both suns = Movable
+1. Directional Light: Both suns = Movable
 1. Atmosphere Sun Light Index = 1
 1. ForwardShadingPriority = 1
 1. Temperature - 1000
