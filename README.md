@@ -54,6 +54,7 @@ For the second sun, change these to 1
 1. Elite_Landscapes----------: Elite Landscapes: Bundle Pack
 1. EnvironmentPack2----------:
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
+1. LandscapeAutoMaterial_v2--: 
 1. MesoamericaConstructions--: Ancient Constructions and Platforms
 1. ModularOldTown------------: Modular Old Town
 1. TemplesOfCambodia---------: [VP] Temples of Cambodia - Ruins exterior and interior
