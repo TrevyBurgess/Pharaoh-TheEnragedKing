@@ -27,7 +27,8 @@ For the second sun, change these to 1
 1. Temperature - 1000
 1. Intensity - 1 lux
 1. Source angle - sun size = 4
-1. SkyLight - Movable, Real Time Capture = Checked
+1. SkyLight: Movable, Real Time Capture = Checked
+1. Exponential Fog Density: 
 
 ## Default Content
 
@@ -64,9 +65,13 @@ For the second sun, change these to 1
 
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
 
+## Assets - Underwater
+
+1. Underwater: Underwater World / 70 Assets
+
 ## Music
 
-1.
+1. CavesAndDungeons------------: Caves and Dungeons
 1.
 
 ## Free Contente
@@ -86,6 +91,8 @@ For the second sun, change these to 1
 1. Water plugins
 1. PCG Extended Toolkit (PCGEx)
 1. Nanite Displacement Mesh
+1. For Under water: NiagaraFluids
+1. For Under water: Water
 
 ## Fix for trees going up and down
 
