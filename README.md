@@ -33,18 +33,18 @@ For the second sun, change these to 1
 ## Default Content
 
 1. Characters
+1. Developers
+1. FirstPerson
+1. FirstPersonArms
+1. FPWeapon
 1. LevelPrototyping
 1. StarterContent
 1. ThirdPerson
 
 ## Unreal Libraries
 
-1. Characters_________:
 1. Fab _______________:
-1. LevelPrototyping___:
 1. MSPresets__________:
-1. StarterContent_____:
-1. ThirdPerson________:
 
 ## 3rd Party Libraries
 
@@ -54,7 +54,6 @@ For the second sun, change these to 1
 1. DesertDragon--------------: Desert Dragon
 1. Elite_Landscapes----------: Elite Landscapes: Bundle Pack
 1. EnvironmentPack2----------:
-1. FarmAnimalsPack-----------: FARM ANIMALS PACK
 1. LandscapeAutoMaterial_v2--:
 1. MesoamericaConstructions--: Ancient Constructions and Platforms
 1. ModularLostRuinKit--------: Modular Lost Ruins Kit
@@ -65,6 +64,12 @@ For the second sun, change these to 1
 
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
 
+## Pawns
+
+1. AnimalVarietyPack---------: ANIMAL VARIETY PACK
+1. FarmAnimalsPack-----------: FARM ANIMALS PACK
+
+
 ## Assets - Underwater
 
 1. Underwater: Underwater World / 70 Assets
@@ -72,6 +77,7 @@ For the second sun, change these to 1
 ## Special Effects
 
 1. BigNiagaraBundle------------: Big Niagara Bundle
+1. DungeonLamps----------------: Dungeon Lamps
 
 ## Music
 
@@ -100,12 +106,12 @@ For the second sun, change these to 1
 
 ## Fix for trees going up and down
 
-[Unreal Engine 5 Foliage Bug: FIX Weird Stretching Tree Movement](https://unrealstack.com/how-to-use-ue5-nanite-tessellation/)
+[Unreal Engine 5 Foliage Bug: FIX Weird Stretching Tree Movement](https://www.youtube.com/watch?v=BWxUOWkv2hI)
 
-1. Search for: MF_SimpleWind
+1. In content browser, search for: MF_SimpleWind
 1. Open blueprint
 1. Under "Main Rotator", open "ObjectPivotPoint"
-1. Select "TransformPosition"
+1. Select "TransformPosition" (Connected to OutputObjectPivotLocation)
 1.1. Set "Source" = "Instance & Particle Space"
 1.1. Set "Destination" = "Absolute World Space"
 1. Save
@@ -139,3 +145,7 @@ Fantasy Cave Environment Set
 ## C++ Coding
 
 1. [Coding Standards](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
+
+## UE 5.6
+
+1. To show new tool bar: ToolMenusViewportToolbars (0 for old, 2 for new, 1 for both)
