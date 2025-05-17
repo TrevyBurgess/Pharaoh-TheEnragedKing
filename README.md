@@ -1,3 +1,18 @@
+Asset Naming Convention Keeper
+Interactive Justice Scale
+Renamer Tool
+Portal Travel
+Cat Animation Pack
+Marble Materials
+Sci-Fi Shrine props VOL 5
+Korean Railroad Mika 3 161
+Rocks and combined
+FREE Sword + Animation
+bright letters and numbers
+KCISA -Korean Presidential Coach
+Dark Man GHS
+Magic Potion Free
+ncient Ruins – Free Asset Pack (26 Pieces + Custom Rematerials)
 
 # Pharaoh - The Enraged King
 
@@ -63,6 +78,21 @@ For the second sun, change these to 1
 1. Valley_Gul----------------: Valley of Guldur
 1. 250BigPrincess_Assets_Set-: 250+ Cute Princesses Avatars Icons BIG PACK
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
+
+## Assets
+
+1. Stylized_Egypt------------: Stone fireplace
+
+
+## Buildings
+
+1. Stylized Egypt
+
+
+# Permamently Free Assets
+
+1. Korea Heritage Service
+1. Paragon
 
 ## Pawns
 
