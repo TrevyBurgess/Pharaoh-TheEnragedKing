@@ -61,14 +61,13 @@ For the second sun, change these to 1
 1. StarSphere----------------: StarSphere
 1. TemplesOfCambodia---------: [VP] Temples of Cambodia - Ruins exterior and interior
 1. Valley_Gul----------------: Valley of Guldur
-
+1. 250BigPrincess_Assets_Set-: 250+ Cute Princesses Avatars Icons BIG PACK
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
 
 ## Pawns
 
 1. AnimalVarietyPack---------: ANIMAL VARIETY PACK
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
-
 
 ## Assets - Underwater
 
@@ -83,6 +82,11 @@ For the second sun, change these to 1
 
 1. CavesAndDungeons------------: Caves and Dungeons
 1.
+
+## Monsters, Animals
+
+1. Dragon for Boss Monster : Handpainted
+1. Dragon for Boss Monster : PBR
 
 ## Free Contente
 
