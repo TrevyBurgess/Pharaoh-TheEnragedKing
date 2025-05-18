@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Dev\\GitHub\\Pharaoh-TheEnragedKing\\TheEnragedKing\\Source\\TheEnragedKing\\TheEnragedKing.Build.cs",
+		"D:\\Dev\\GitHub\\Pharaoh-TheEnragedKing\\TheEnragedKing\\Plugins\\VisualStudioTools\\Source\\VisualStudioBlueprintDebuggerHelper\\VisualStudioBlueprintDebuggerHelper.Build.cs",
+		"D:\\Dev\\GitHub\\Pharaoh-TheEnragedKing\\TheEnragedKing\\Plugins\\VisualStudioTools\\Source\\VisualStudioTools\\VisualStudioTools.Build.cs",
+		"D:\\Dev\\GitHub\\Pharaoh-TheEnragedKing\\TheEnragedKing\\Source\\TheEnragedKing.Target.cs",
+		"D:\\Dev\\GitHub\\Pharaoh-TheEnragedKing\\TheEnragedKing\\Source\\TheEnragedKingEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

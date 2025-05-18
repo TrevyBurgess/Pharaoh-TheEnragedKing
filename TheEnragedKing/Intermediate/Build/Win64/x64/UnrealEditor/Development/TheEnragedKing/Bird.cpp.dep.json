@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\source\\theenragedking\\private\\pawns\\bird.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\intermediate\\build\\win64\\x64\\theenragedkingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\theenragedking\\definitions.theenragedking.h",
+            "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\source\\theenragedking\\public\\pawns\\bird.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "d:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\intermediate\\build\\win64\\unrealeditor\\inc\\theenragedking\\uht\\bird.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
