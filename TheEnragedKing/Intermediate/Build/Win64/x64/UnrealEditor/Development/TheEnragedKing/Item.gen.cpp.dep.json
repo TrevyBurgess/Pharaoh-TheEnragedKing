@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\intermediate\\build\\win64\\unrealeditor\\inc\\theenragedking\\uht\\item.gen.cpp",
+        "Source": "d:\\dev\\theenragedking - copy\\intermediate\\build\\win64\\unrealeditor\\inc\\theenragedking\\uht\\item.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\intermediate\\build\\win64\\x64\\theenragedkingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "d:\\dev\\theenragedking - copy\\intermediate\\build\\win64\\x64\\theenragedkingeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\theenragedking\\definitions.theenragedking.h",
-            "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\source\\theenragedking\\public\\items\\item.h",
-            "d:\\dev\\github\\pharaoh-theenragedking\\theenragedking\\intermediate\\build\\win64\\unrealeditor\\inc\\theenragedking\\uht\\item.generated.h"
+            "d:\\dev\\theenragedking - copy\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\theenragedking\\definitions.theenragedking.h",
+            "d:\\dev\\theenragedking - copy\\source\\theenragedking\\public\\items\\item.h",
+            "d:\\dev\\theenragedking - copy\\intermediate\\build\\win64\\unrealeditor\\inc\\theenragedking\\uht\\item.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

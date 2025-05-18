@@ -1,6 +1,6 @@
 /I "."
-/I "D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Intermediate\Build\Win64\UnrealEditor\Inc\TheEnragedKing\UHT"
-/I "D:\Dev\GitHub\Pharaoh-TheEnragedKing\TheEnragedKing\Source"
+/I "D:\Dev\TheEnragedKing - Copy\Intermediate\Build\Win64\UnrealEditor\Inc\TheEnragedKing\UHT"
+/I "D:\Dev\TheEnragedKing - Copy\Source"
 /I "Runtime\Core\Public"
 /I "Runtime\Core\Internal"
 /I "Runtime\TraceLog\Public"
