@@ -43,7 +43,7 @@ For the second sun, change these to 1
 1. Intensity - 1 lux
 1. Source angle - sun size = 4
 1. SkyLight: Movable, Real Time Capture = Checked
-1. Exponential Fog Density: 
+1. Exponential Fog Density:
 
 ## Default Content
 
@@ -83,25 +83,28 @@ For the second sun, change these to 1
 
 1. Stylized_Egypt------------: Stone fireplace
 
-
 ## Buildings
 
 1. Stylized Egypt
 1. Ancient_Ruins-------------: Ancient Ruins - Free Asset Pack (26 Pieces + Custom Rematerials)
 
-# Permamently Free Assets
+## Permamently Free Assets
 
 1. Korea Heritage Service
 1. Paragon
+
+## Ruins
+
+1. (Not imported yet) : Dark Ruins Megascans Sample
+
+## Assets - Underwater
+
+1. Underwater: Underwater World / 70 Assets
 
 ## Pawns
 
 1. AnimalVarietyPack---------: ANIMAL VARIETY PACK
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
-
-## Assets - Underwater
-
-1. Underwater: Underwater World / 70 Assets
 
 ## Special Effects
 
@@ -117,6 +120,10 @@ For the second sun, change these to 1
 
 1. Dragon for Boss Monster : Handpainted
 1. Dragon for Boss Monster : PBR
+
+## Materials
+
+1. AutomotiveMaterials---------: Automotive Materials
 
 ## Free Contente
 
@@ -137,6 +144,7 @@ For the second sun, change these to 1
 1. Nanite Displacement Mesh
 1. For Under water: NiagaraFluids
 1. For Under water: Water
+1. Text 3D
 
 ## Fix for trees going up and down
 
@@ -155,10 +163,13 @@ For the second sun, change these to 1
 [UE5 Nanite Tessellation](https://unrealstack.com/how-to-use-ue5-nanite-tessellation/)
 
 1. [Material texture](https://www.youtube.com/watch?v=oRDmp0RLy7Q)
+1. Open Config/DefaultEngine.ini
 1. Go to [/Script/Engine.RendererSettings]
 1. Add: r.Nanite.AllowTessellation=1 -> r.Nanite.AllowTessellation 1
 1. Add: r.Nanite.Tessellation=1 ------> r.Nanite.Tessellation 1
 1. In console, enter replacing = with space
+1.1. Enter: r.Nanite.AllowTessellation 1
+1.1. Enter: r.Nanite.Tessellation 1
 1. Enable Nanite in Landscape
 
 For ORM textures...
