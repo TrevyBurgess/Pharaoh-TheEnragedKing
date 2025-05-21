@@ -3790,6 +3790,18 @@
 			"Type": "RequiredResource"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/Binaries/Win64/UnrealEditor-NaniteDisplacedMesh.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/Binaries/Win64/UnrealEditor-NaniteDisplacedMeshEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/PCGInterops/PCGWaterInterop/Binaries/Win64/UnrealEditor-PCGWaterInterop.dll",
 			"Type": "DynamicLibrary"
 		},
@@ -3855,6 +3867,18 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/StudioTelemetry/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Text3D/Binaries/Win64/UnrealEditor-Text3D.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Text3D/Binaries/Win64/UnrealEditor-Text3DEditor.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Text3D/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
 		},
 		{
@@ -30312,6 +30336,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Experimental/NaniteDisplacedMesh/NaniteDisplacedMesh.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Experimental/PCGInterops/PCGWaterInterop/PCGWaterInterop.uplugin",
 			"Type": "UFS"
 		},
@@ -30333,6 +30361,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/Experimental/StudioTelemetry/StudioTelemetry.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Experimental/Text3D/Text3D.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -30819,6 +30851,7 @@
 		"NFORDenoise",
 		"NNEDenoiser",
 		"NNERuntimeORT",
+		"NaniteDisplacedMesh",
 		"Niagara",
 		"NiagaraFluids",
 		"NiagaraSimCaching",
@@ -30870,6 +30903,7 @@
 		"Takes",
 		"TcpMessaging",
 		"TemplateSequence",
+		"Text3D",
 		"TextureFormatOodle",
 		"ToolPresets",
 		"TraceUtilities",
