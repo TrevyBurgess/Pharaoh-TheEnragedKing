@@ -36,6 +36,10 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 1. [The Egyptian Book of the Dead](https://archive.org/details/TheEgyptianBookOfTheDead)
 1. [Hieroglyphics Translator](https://engdic.org/hieroglyphics-translator/)
 
+### 1.3. Publishing
+
+1. [Compiling Game](https://www.youtube.com/watch?v=BLXhZTK4HkY)
+
 ## 2. Game Customizations
 
 ### 2.1. Dual suns
