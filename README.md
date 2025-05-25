@@ -39,10 +39,16 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 ### 1.3. Publishing
 
 1. [Compiling Game](https://www.youtube.com/watch?v=BLXhZTK4HkY)
+1. [Git LFS download](https://git-lfs.com/)
+1. [Source Tree](https://www.sourcetreeapp.com/)
 
-## 2. Game Customizations
+## 2. Project Settings
 
-### 2.1. Dual suns
+1. [Git Setup](https://www.youtube.com/watch?v=n3x1fErlmYA)
+
+## 3. Game Customizations
+
+### 3.1. Dual suns
 
 For the second sun, change these to 1
 
@@ -55,15 +61,15 @@ For the second sun, change these to 1
 1. SkyLight: Movable, Real Time Capture = Checked
 1. Exponential Fog Density:
 
-### 2.2. Water Management
+### 3.2. Water Management
 
 1. Plugins: Water, Water Advanced
 
-### 2.3. 3D text
+### 3.3. 3D text
 
 1. Plugin: Text 3D
 
-## 2.4. Fix for trees going up and down
+## 3.4. Fix for trees going up and down
 
 [Unreal Engine 5 Foliage Bug: FIX Weird Stretching Tree Movement](https://www.youtube.com/watch?v=BWxUOWkv2hI)
 
@@ -71,11 +77,11 @@ For the second sun, change these to 1
 1. Open blueprint
 1. Under "Main Rotator", open "ObjectPivotPoint"
 1. Select "TransformPosition" (Connected to OutputObjectPivotLocation)
-1.1. Set "Source" = "Instance & Particle Space"
-1.1. Set "Destination" = "Absolute World Space"
+1. Set "Source" = "Instance & Particle Space"
+1. Set "Destination" = "Absolute World Space"
 1. Save
 
-### 2.5. Displacement
+### 3.5. Displacement
 
 [UE5 Nanite Tessellation](https://unrealstack.com/how-to-use-ue5-nanite-tessellation/)
 
@@ -85,8 +91,8 @@ For the second sun, change these to 1
 1. Add: r.Nanite.AllowTessellation=1 -> r.Nanite.AllowTessellation 1
 1. Add: r.Nanite.Tessellation=1 ------> r.Nanite.Tessellation 1
 1. In console, enter replacing = with space
-1.1. Enter: r.Nanite.AllowTessellation 1
-1.1. Enter: r.Nanite.Tessellation 1
+1. Enter: r.Nanite.AllowTessellation 1
+1. Enter: r.Nanite.Tessellation 1
 1. Enable Nanite in Landscape
 
 For ORM textures...
@@ -95,19 +101,19 @@ For ORM textures...
 1. G -> Roughness
 1. B -> Displacement
 
-## 3. Blueprint info
+## 4. Blueprint info
 
 1. [Character tracking](https://www.youtube.com/watch?v=FvOSdkhQ6ag)
 
-## 4. C++ Coding
+## 5. C++ Coding
 
 1. [Coding Standards](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
 
-## 5. UE 5.6 Customizations
+## 6. UE 5.6 Customizations
 
 1. To show new tool bar: ToolMenusViewportToolbars (0 for old, 2 for new, 1 for both)
 
-## 6. Standard Libraries
+## 7. Standard Libraries
 
 1. Characters
 1. Developers
@@ -120,9 +126,9 @@ For ORM textures...
 1. StarterContent
 1. ThirdPerson
 
-## 7. 3rd Party Librariers
+## 8. 3rd Party Librariers
 
-### 7.1. General
+### 8.1. General
 
 1. Stylized_Egypt------------: Stone fireplace
 1. 250+ Cute Princesses Avatars Icons BIG PACK
@@ -141,37 +147,41 @@ For ORM textures...
 1. 250BigPrincess_Assets_Set-: 250+ Cute Princesses Avatars Icons BIG PACK
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
 
-### 7.2. Avatars
+### 8.2. Avatars
 
 1. Free -> Paragon: Sparrow
 
-### 7.3. Buildings
+### 8.3. Buildings
 
 1. Free -> Korea Heritage Service
 1. Stylized Egypt
 1. Ancient_Ruins-------------: Ancient Ruins - Free Asset Pack (26 Pieces + Custom Rematerials)
 
-### 7.4. Creatures/monsters
+### 8.4. Creatures/monsters
 
 1. AnimalVarietyPack---------: ANIMAL VARIETY PACK
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
 1. Dragon for Boss Monster : Handpainted
 1. Dragon for Boss Monster : PBR
 
-## 7.5. Materials
+## 8.5. Materials
 
 1. Marble_Materials_4K-------: Marble Materials
 1. AutomotiveMaterials---------: Automotive Materials
 
-## 7.6. Music
+## 8.6. Music
 
 1. CavesAndDungeons------------: Caves and Dungeons
 
-### 7.7. Special Effects
+### 8.7. Special Effects
 
 1. BigNiagaraBundle------------: Big Niagara Bundle
 1. DungeonLamps----------------: Dungeon Lamps
 
-## 7.8. Underwater
+## 8.8. UI components
+
+1.
+
+## 8.9. Underwater
 
 1. Underwater: Underwater World / 70 Assets
