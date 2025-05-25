@@ -15,7 +15,7 @@
 1. KCISA -Korean Presidential Coach
 1. Dark Man GHS
 1. Magic Potion Free
-1. ncient Ruins – Free Asset Pack (26 Pieces + Custom Rematerials)
+1. Ancient Ruins – Free Asset Pack (26 Pieces + Custom Rematerials)
 1. Quadruped Fantasy Creatures
 
 ## 1. Synopsis
@@ -24,7 +24,7 @@ Genre: An Unreal horror game, combining puzzles and magic
 
 ### 1.1. Synopsizes
 
-You are an archeologist who discovered an untouched Egyptian tomb. Within the underground labyrinth of the pharaoh, you plundered countless treasures. Now the king is angry. He wants his treasures back.
+You are an archaeologist who discovered an untouched Egyptian tomb. Within the underground labyrinth of the pharaoh, you plundered countless treasures. Now the king is angry. He wants his treasures back.
 
 As punishment, you are now immortal. But is that a good thing, when every night you are viciously attacked and murdered by terrifying monsters, only to resurrect the next day?
 
@@ -91,7 +91,7 @@ For the second sun, change these to 1
 
 For ORM textures...
 
-1. R -> Ambient Occulsion
+1. R -> Ambient Occlusion
 1. G -> Roughness
 1. B -> Displacement
 
