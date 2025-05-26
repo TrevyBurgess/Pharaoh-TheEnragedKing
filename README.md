@@ -101,9 +101,16 @@ For ORM textures...
 1. G -> Roughness
 1. B -> Displacement
 
-## 4. Blueprint info
+## 4. Settings
+
+### 4.1. Blueprint info
 
 1. [Character tracking](https://www.youtube.com/watch?v=FvOSdkhQ6ag)
+1. [List View Implimentation](https://www.youtube.com/watch?v=76SWLfeyO0o)
+
+### 4.2. World Settings
+
+1. GameMode Override = BP_MyCharacter_GameMode
 
 ## 5. C++ Coding
 
@@ -131,7 +138,6 @@ For ORM textures...
 ### 8.1. General
 
 1. Stylized_Egypt------------: Stone fireplace
-1. 250+ Cute Princesses Avatars Icons BIG PACK
 1. Bazaar_Meshingun----------: The Bazaar
 1. BlackAlder----------------: European Black Alder (Megascans Trees: European)
 1. DesertDragon--------------: Desert Dragon
@@ -147,6 +153,11 @@ For ORM textures...
 1. 250BigPrincess_Assets_Set-: 250+ Cute Princesses Avatars Icons BIG PACK
 1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
 
+### 8.3. Animations
+
+1. Islam_Pray_Animations-----: Islam Pray Animations (Islamic praying)
+1. ActorCore_Sample_Motions--: ActorCore Sample Motions
+
 ### 8.2. Avatars
 
 1. Free -> Paragon: Sparrow
@@ -161,8 +172,21 @@ For ORM textures...
 
 1. AnimalVarietyPack---------: ANIMAL VARIETY PACK
 1. FarmAnimalsPack-----------: FARM ANIMALS PACK
-1. Dragon for Boss Monster : Handpainted
-1. Dragon for Boss Monster : PBR
+1. Dragon for Boss Monster---: Handpainted
+1. Dragon for Boss Monster---: PBR
+
+### 8. Environment - Caves
+
+1. SoulCave-------------------: Soul: Cave
+
+### 8. Environment - Flying Islands
+
+1. EpicZenGarden2-------------: Epic Zen Garden
+
+### 8. Images
+
+1. TheTravelerV1--------------: [FBG] - The Traveler Vol. 1
+1. 250BigPrincess_Assets_Set--: 250+ Cute Princesses Avatars Icons BIG PACK
 
 ## 8.5. Materials
 
@@ -178,10 +202,33 @@ For ORM textures...
 1. BigNiagaraBundle------------: Big Niagara Bundle
 1. DungeonLamps----------------: Dungeon Lamps
 
-## 8.8. UI components
+### 8.8. UI components
 
 1.
 
-## 8.9. Underwater
+### 8.9. Underwater
 
 1. Underwater: Underwater World / 70 Assets
+
+### 8.10
+
+1. Simple Procedural Asset Creator
+
+### 8.11 To Classify
+
+1. Magician's Library Environment and VFX Pack
+
+1. FantasyBundle---------------: Fantasy Bundle Environment Kit 3 in 1
+
+### 8.12
+
+1. Black Hole Fragment Shader
+
+### Egyptian
+
+1. Cat_Animation_Pack-----------: Cat Animation Pack
+
+### For Later
+
+1. CharacterBodyFX--------------: Character Body FX Vol. 1
+1. Gothic_Cathedral-------------: UCreate - Gothic Cathedral Asset Pack
