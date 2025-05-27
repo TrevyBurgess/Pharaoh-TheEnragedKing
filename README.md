@@ -167,6 +167,8 @@ For ORM textures...
 1. Free -> Korea Heritage Service
 1. Stylized Egypt
 1. Ancient_Ruins-------------: Ancient Ruins - Free Asset Pack (26 Pieces + Custom Rematerials)
+1. Village-------------------: Slavic Village
+1. ModularFantasyHouse-------: Modular Fantasy House
 
 ### 8.4. Creatures/monsters
 
@@ -188,14 +190,18 @@ For ORM textures...
 1. TheTravelerV1--------------: [FBG] - The Traveler Vol. 1
 1. 250BigPrincess_Assets_Set--: 250+ Cute Princesses Avatars Icons BIG PACK
 
-## 8.5. Materials
+### 8.5. Materials
 
 1. Marble_Materials_4K-------: Marble Materials
 1. AutomotiveMaterials---------: Automotive Materials
 
-## 8.6. Music
+### 8.6. Music
 
 1. CavesAndDungeons------------: Caves and Dungeons
+
+### 6.7 Fonts
+
+1. fontlibrary.org | RunaHollow Medium
 
 ### 8.7. Special Effects
 
