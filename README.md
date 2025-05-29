@@ -101,6 +101,10 @@ For ORM textures...
 1. G -> Roughness
 1. B -> Displacement
 
+### 3.6. Always show
+
+1. Always show: Uncheck 'Is Spatially Loaded'
+
 ## 4. Settings
 
 ### 4.1. Blueprint info
@@ -160,7 +164,7 @@ For ORM textures...
 
 ### 8.2. Avatars
 
-1. Free -> Paragon: Sparrow
+1. ParagonSparrow -> Paragon: Sparrow - FREE
 
 ### 8.3. Buildings
 
