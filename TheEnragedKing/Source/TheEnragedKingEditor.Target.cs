@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class TheEnragedKingEditorTarget : TargetRules
 {
-	public TheEnragedKingEditorTarget(TargetInfo Target) : base(Target)
+	public TheEnragedKingEditorTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V5;

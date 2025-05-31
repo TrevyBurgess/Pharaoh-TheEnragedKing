@@ -126,119 +126,92 @@ For ORM textures...
 
 ## 7. Standard Libraries
 
-1. Characters
-1. Developers
 1. Fab
-1. FirstPerson
-1. FirstPersonArms
-1. FPWeapon
-1. LevelPrototyping
-1. MSPresets
-1. StarterContent
-1. ThirdPerson
+1. StarterContent-----: Starter Content
+1. FirstPerson--------: First Person
+1. ThirdPerson--------: Third Person
 
 ## 8. 3rd Party Librariers
 
-### 8.1. General
+### Anumations
 
-1. Stylized_Egypt------------: Stone fireplace
-1. Bazaar_Meshingun----------: The Bazaar
-1. BlackAlder----------------: European Black Alder (Megascans Trees: European)
-1. DesertDragon--------------: Desert Dragon
-1. Elite_Landscapes----------: Elite Landscapes: Bundle Pack
-1. EnvironmentPack2----------:
-1. LandscapeAutoMaterial_v2--:
-1. MesoamericaConstructions--: Ancient Constructions and Platforms
-1. ModularLostRuinKit--------: Modular Lost Ruins Kit
-1. ModularOldTown------------: Modular Old Town
-1. StarSphere----------------: StarSphere
-1. TemplesOfCambodia---------: [VP] Temples of Cambodia - Ruins exterior and interior
-1. Valley_Gul----------------: Valley of Guldur
-1. 250BigPrincess_Assets_Set-: 250+ Cute Princesses Avatars Icons BIG PACK
-1. Vegetation----------------: Mountains & Meadows I Outdoor Environment
-
-### 8.3. Animations
-
-1. Islam_Pray_Animations-----: Islam Pray Animations (Islamic praying)
-1. ActorCore_Sample_Motions--: ActorCore Sample Motions
-
-### 8.2. Avatars
-
-1. ParagonSparrow -> Paragon: Sparrow - FREE
-
-### 8.3. Buildings
-
-1. Free -> Korea Heritage Service
-1. Stylized Egypt
-1. Ancient_Ruins-------------: Ancient Ruins - Free Asset Pack (26 Pieces + Custom Rematerials)
-1. Village-------------------: Slavic Village
-1. ModularFantasyHouse-------: Modular Fantasy House
-
-### 8.4. Creatures/monsters
-
-1. AnimalVarietyPack---------: ANIMAL VARIETY PACK
-1. FarmAnimalsPack-----------: FARM ANIMALS PACK
-1. Dragon for Boss Monster---: Handpainted
-1. Dragon for Boss Monster---: PBR
-
-### 8. Environment - Caves
-
-1. SoulCave-------------------: Soul: Cave
-
-### 8. Environment - Flying Islands
-
-1. EpicZenGarden2-------------: Epic Zen Garden
-
-### 8. Images
-
-1. TheTravelerV1--------------: [FBG] - The Traveler Vol. 1
-1. 250BigPrincess_Assets_Set--: 250+ Cute Princesses Avatars Icons BIG PACK
-
-### 8.5. Materials
-
-1. Marble_Materials_4K-------: Marble Materials
-1. AutomotiveMaterials---------: Automotive Materials
-
-### 8.6. Music
-
-1. CavesAndDungeons------------: Caves and Dungeons
-
-### 6.7 Fonts
-
-1. fontlibrary.org | RunaHollow Medium
-
-### 8.7. Special Effects
-
-1. BigNiagaraBundle------------: Big Niagara Bundle
-1. DungeonLamps----------------: Dungeon Lamps
-
-### 8.8. UI components
-
-1.
-
-### 8.9. Underwater
-
-1. Underwater: Underwater World / 70 Assets
-
-### 8.10
-
-1. Simple Procedural Asset Creator
-
-### 8.11 To Classify
-
-1. Magician's Library Environment and VFX Pack
-
-1. FantasyBundle---------------: Fantasy Bundle Environment Kit 3 in 1
-
-### 8.12
-
-1. Black Hole Fragment Shader
-
-### Egyptian
-
-1. Cat_Animation_Pack-----------: Cat Animation Pack
-
-### For Later
-
-1. CharacterBodyFX--------------: Character Body FX Vol. 1
-1. Gothic_Cathedral-------------: UCreate - Gothic Cathedral Asset Pack
+| Animations | Folder Name | Library Name       |
+| ---------- | ------------------ | ----------- |
+|            | Islam_Pray_Animations | Islam Pray Animations (Islamic praying) |
+|            | ActorCore_Sample_Motions | ActorCore Sample Motions |
+|            | Cat_Animation_Pack | Cat Animation Pack |
+|  |  |  |
+| Avatars    | **Folder Name**    | **Library Name** |
+|            | ParagonSparrow | Paragon: Sparrow |
+|  |  |  |
+| Creatures  | **Folder Name**    | **Library Name** |
+| | DesertDragon | Desert Dragon |
+| | FarmAnimalsPack | FARM ANIMALS PACK |
+| | FourEvilDragonsHP | Dragon for Boss Monster : Handpainted |
+| | AnimalVarietyPack | ANIMAL VARIETY PACK |
+| | FourEvilDragonsPBR | Dragon for Boss Monster : PBR|
+|  |  |  |
+| Environment - Caves | **Folder Name**    | **Library Name** |
+|  | SoulCave | Soul: Cave |
+|  | FantasyBundle | Fantasy Bundle Environment Kit 3 in 1 |
+|  |  |  |
+| Environment - Landscapes | **Folder Name**    | **Library Name** |
+|  | Elite_Landscapes | Elite Landscapes: Bundle Pack |
+|  | Vegetation | Mountains & Meadows I Outdoor Environment |
+|  |  |  |
+| Environment - Underwater | **Folder Name** | **Library Name** |
+|  | Underwater | Underwater World / 70 Assets |
+|  |  |  |
+| Environment - World | **Folder Name** | **Library Name** |
+|  | StarSphere | StarSphere |
+| Environment - World | **Folder Name** | **Library Name** |
+| Assets | DungeonLamps | Dungeon Lamps |
+|  |  |  |
+| Images | **Folder Name** | **Library Name** |
+|  | 250BigPrincess_Assets_Set | 250+ Cute Princesses Avatars Icons BIG PACK |
+|  | TheTravelerV1 | [FBG] - The Traveler Vol. 1 |
+|  |  |  |
+| Niagara Effects | **Folder Name** | **Library Name** |
+|  | CharacterBodyFX | Character Body FX Vol. 1 |
+| Materials | **Folder Name**    | **Library Name** |
+|  | Marble_Materials_4K | Marble Materials |
+|  | AutomotiveMaterials | Automotive Materials |
+|  | STF | Landscape Pro 2.0 Auto-Generated Material |
+| Music | **Folder Name**    | **Library Name** |
+|  | CavesAndDungeons | Caves and Dungeons |
+|  |  |  |
+| Structures - Buildings | **Folder Name**    | **Library Name** |
+|  | ModularFantasyHouse | Modular Fantasy House |
+|  | MesoamericaConstructions | Ancient Constructions and Platforms |
+|  | Village | Slavic Village |
+|  | Gothic_Cathedral | UCreate - Gothic Cathedral Asset Pack |
+|  |  |  |
+| Structures - Cities | **Folder Name**    | **Library Name** |
+|  | Stylized_Egypt | Stylized Egypt |
+|  | Bazaar_Meshingun | The Bazaar |
+|  | ModularOldTown | Modular Old Town |
+|  | Valley_Gul | Valley of Guldur |
+|  |  |  |
+| Structures - Ruins | **Folder Name**    | **Library Name** |
+|  | Ancient_Ruins | Ancient Ruins - Free Asset Pack (26 Pieces + Custom Rematerials) |
+|  | ModularLostRuinKit | Modular Lost Ruins Kit |
+|  | TemplesOfCambodia | [VP] Temples of Cambodia - Ruins exterior and interior |
+|  |  |  |
+| Shaders | **Folder Name**    | **Library Name** |
+|  | BlackHole | Black Hole Fragment Shader |
+|  |  |  |
+| Special Effects | **Folder Name**    | **Library Name** |
+|  | BigNiagaraBundle | Big Niagara Bundle |
+|  |  |  |
+| Vegetation - Trees | **Folder Name**    | **Library Name** |
+|  | EuropeanBeech | European Beech |
+|  | BlackAlder | European Black Alder |
+|  | EuropeanHornbeam | European Hornbeam |
+|  |  |  |
+| Projects | **Folder Name**    | **Library Name** |
+|  | EpicZenGarden2 | Epic Zen Garden |
+|  |  | Magician's Library Environment and VFX Pack |
+|  |  | Simple Procedural Asset Creator |
+|  |  |  |
+| Fonts | **Folder Name**    | **Library Name** |
+|  | ntlibrary.org | RunaHollow Medium |
