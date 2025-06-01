@@ -105,6 +105,13 @@ For ORM textures...
 
 1. Always show: Uncheck 'Is Spatially Loaded'
 
+### 3.7. Rendering Engine
+
+1. Open Project Settings
+1. Search for RHI
+1. Set Default RHI = Vulkan
+1. Choose SM6, not SM5
+
 ## 4. Settings
 
 ### 4.1. Blueprint info
