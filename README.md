@@ -46,6 +46,42 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 
 1. [Git Setup](https://www.youtube.com/watch?v=n3x1fErlmYA)
 
+### 2.1. Visual Studio Setup
+
+Go to Options:
+
+* Disable error list
+
+1. Go to: Projects and Solutions | General
+1. Uncheck: Always show Error List if build finishes with errors
+
+* Hide external dependencies
+
+1. Go to: Text Editor | C/C++ | Advanced
+1. Set "Hide External Dependencies Folders" = True
+1. Set "Disable IntelliSense = False
+
+* Hide inactive macros
+
+1. Go to: Text Editor | C/C++ | View | Inactive Code
+1. Set: "Show Inactive Blocks" = False
+
+* Disable Live coding. This can cause Blueprint corruption
+
+1. Open Editor Preferences
+1. Go to: "Enable Reinstancing"
+1. Disable
+
+* Ensure Visual Studio Support
+
+1. Open Visual Studio Installer
+1. Modify Current Installation
+1. Go to Installation Details
+1. Go to: "Game development with C++"
+1. Enable: Unreal Engine Installer
+1. Enable: Unreal Engine Test Adaper
+1. Etc.
+
 ## 3. Game Customizations
 
 ### 3.1. Dual suns
@@ -101,16 +137,17 @@ For ORM textures...
 1. G -> Roughness
 1. B -> Displacement
 
-### 3.6. Always show
+### 3.6. Always show, visible
 
 1. Always show: Uncheck 'Is Spatially Loaded'
 
-### 3.7. Rendering Engine
+### 3.7. Packaging
 
-1. Open Project Settings
-1. Search for RHI
-1. Set Default RHI = Vulkan
-1. Choose SM6, not SM5
+Go to: Project Settings/Packaging
+Go to:
+
+1. Target Hardware
+1. Default RHI
 
 ## 4. Settings
 
@@ -151,26 +188,26 @@ For ORM textures...
 | Avatars    | **Folder Name**    | **Library Name** |
 |            | ParagonSparrow | Paragon: Sparrow |
 |  |  |  |
-| Creatures  | **Folder Name**    | **Library Name** |
-| | DesertDragon | Desert Dragon |
-| | FarmAnimalsPack | FARM ANIMALS PACK |
-| | FourEvilDragonsHP | Dragon for Boss Monster : Handpainted |
-| | AnimalVarietyPack | ANIMAL VARIETY PACK |
-| | FourEvilDragonsPBR | Dragon for Boss Monster : PBR|
+| Creatures            | **Folder Name**    | **Library Name** |
+| | DesertDragon       | Desert Dragon                         |
+| | FarmAnimalsPack    | FARM ANIMALS PACK                     |
+| | FourEvilDragonsHP  | Dragon for Boss Monster : Handpainted |
+| | AnimalVarietyPack  | ANIMAL VARIETY PACK                   |
+| | FourEvilDragonsPBR | Dragon for Boss Monster : PBR         |
 |  |  |  |
 | Environment - Caves | **Folder Name**    | **Library Name** |
-|  | SoulCave | Soul: Cave |
-|  | FantasyBundle | Fantasy Bundle Environment Kit 3 in 1 |
+|                     | SoulCave         | Soul: Cave        |
+|                     | FantasyBundle    | Fantasy Bundle Environment Kit 3 in 1 |
 |  |  |  |
 | Environment - Landscapes | **Folder Name**    | **Library Name** |
-|  | Elite_Landscapes | Elite Landscapes: Bundle Pack |
-|  | Vegetation | Mountains & Meadows I Outdoor Environment |
-|  |  |  |
+|                          | Elite_Landscapes | Elite Landscapes: Bundle Pack |
+|                          | Vegetation | Mountains & Meadows I Outdoor Environment |
+|                          |  |  |
 | Environment - Underwater | **Folder Name** | **Library Name** |
-|  | Underwater | Underwater World / 70 Assets |
-|  |  |  |
-| Environment - World | **Folder Name** | **Library Name** |
-|  | StarSphere | StarSphere |
+|                          | Underwater | Underwater World / 70 Assets |
+|                          |  |  |
+| Environment - World      | **Folder Name** | **Library Name** |
+|                          | StarSphere | StarSphere |
 | Environment - World | **Folder Name** | **Library Name** |
 | Assets | DungeonLamps | Dungeon Lamps |
 |  |  |  |
