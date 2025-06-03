@@ -1,13 +1,14 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "Code/BaseCharacter.h"
-#include "DrawDebugHelpers.h"
+#include "TheEnragedKing/TheEnragedKing.h"
+#include "theEnragedKing/DebugMacros.h"
 
 // Sets default values
 ABaseCharacter::ABaseCharacter()
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
+	//PrimaryActorTick.bCanEverTick = true;
 
 }
 
@@ -29,8 +30,10 @@ void ABaseCharacter::BeginPlay()
  //   UWorld* World = GetWorld();
 	//if (World)
 	//{
-	//	DrawDebugSphere(World, GetActorLocation(), 100.0f, 12, FColor::Red, false, -1.0f, 0, 2.0f);
+	//	DrawDebugSphere(World, GetActorLocation(), 100.0f, DEBUG_SEGMENTS, FColor::Red, false, -1.0f, 0, 2.0f);
  //   }
+
+	//DRAW_SPHERE(GetActorLocation())
 }
 
 // Called every frame

@@ -1,22 +1,4 @@
-
 # Pharaoh - The Enraged King
-
-1. Asset Naming Convention Keeper
-1. Interactive Justice Scale
-1. Renamer Tool
-1. Portal Travel
-1. Cat Animation Pack
-1. Marble Materials
-1. Sci-Fi Shrine props VOL 5
-1. Korean Railroad Mika 3 161
-1. Rocks and combined
-1. FREE Sword + Animation
-1. bright letters and numbers
-1. KCISA -Korean Presidential Coach
-1. Dark Man GHS
-1. Magic Potion Free
-1. Ancient Ruins – Free Asset Pack (26 Pieces + Custom Rematerials)
-1. Quadruped Fantasy Creatures
 
 ## 1. Synopsis
 
@@ -42,37 +24,39 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 1. [Git LFS download](https://git-lfs.com/)
 1. [Source Tree](https://www.sourcetreeapp.com/)
 
-## 2. Project Settings
+## 2. Visual Studio/Git
+
+### 2.1. Git
 
 1. [Git Setup](https://www.youtube.com/watch?v=n3x1fErlmYA)
 
-### 2.1. Visual Studio Setup
+### 2.2. Visual Studio Setup
 
 Go to Options:
 
-* Disable error list
+- Disable error list
 
 1. Go to: Projects and Solutions | General
 1. Uncheck: Always show Error List if build finishes with errors
 
-* Hide external dependencies
+- Hide external dependencies
 
 1. Go to: Text Editor | C/C++ | Advanced
 1. Set "Hide External Dependencies Folders" = True
 1. Set "Disable IntelliSense = False
 
-* Hide inactive macros
+- Hide inactive macros
 
 1. Go to: Text Editor | C/C++ | View | Inactive Code
 1. Set: "Show Inactive Blocks" = False
 
-* Disable Live coding. This can cause Blueprint corruption
+- Disable Live coding. This can cause Blueprint corruption
 
 1. Open Editor Preferences
 1. Go to: "Enable Reinstancing"
 1. Disable
 
-* Ensure Visual Studio Support
+- Ensure Visual Studio Support
 
 1. Open Visual Studio Installer
 1. Modify Current Installation
@@ -82,9 +66,33 @@ Go to Options:
 1. Enable: Unreal Engine Test Adaper
 1. Etc.
 
-## 3. Game Customizations
+## 3. Editor Settings
 
-### 3.1. Dual suns
+## 4. Project Settings
+
+## 5. Plugins
+
+### 5.1. 3D text
+
+1. Plugin: Text 3D
+
+## 5.2. Water Management
+
+1. Plugins: Water, Water Advanced
+
+## 5.3. Modeling (PCG)
+
+1. Plugin: Modeling Tools Editor Mode
+1. Plugin: Procedural Content Generation Framework
+1. [TUtorial](https://www.youtube.com/watch?v=STqt92VF3KM)
+
+## 5.4. Landscape
+
+1. Plugin: Landscape Patch
+
+## 6. Game Customizations
+
+### 6.1. Dual suns
 
 For the second sun, change these to 1
 
@@ -97,27 +105,7 @@ For the second sun, change these to 1
 1. SkyLight: Movable, Real Time Capture = Checked
 1. Exponential Fog Density:
 
-### 3.2. Water Management
-
-1. Plugins: Water, Water Advanced
-
-### 3.3. 3D text
-
-1. Plugin: Text 3D
-
-## 3.4. Fix for trees going up and down
-
-[Unreal Engine 5 Foliage Bug: FIX Weird Stretching Tree Movement](https://www.youtube.com/watch?v=BWxUOWkv2hI)
-
-1. In content browser, search for: MF_SimpleWind
-1. Open blueprint
-1. Under "Main Rotator", open "ObjectPivotPoint"
-1. Select "TransformPosition" (Connected to OutputObjectPivotLocation)
-1. Set "Source" = "Instance & Particle Space"
-1. Set "Destination" = "Absolute World Space"
-1. Save
-
-### 3.5. Displacement
+### 6.2. Displacement
 
 [UE5 Nanite Tessellation](https://unrealstack.com/how-to-use-ue5-nanite-tessellation/)
 
@@ -137,11 +125,29 @@ For ORM textures...
 1. G -> Roughness
 1. B -> Displacement
 
-### 3.6. Always show, visible
+### 6.3. Fix for trees going up and down
+
+[Unreal Engine 5 Foliage Bug: FIX Weird Stretching Tree Movement](https://www.youtube.com/watch?v=BWxUOWkv2hI)
+
+1. In content browser, search for: MF_SimpleWind
+1. Open blueprint
+1. Under "Main Rotator", open "ObjectPivotPoint"
+1. Select "TransformPosition" (Connected to OutputObjectPivotLocation)
+1. Set "Source" = "Instance & Particle Space"
+1. Set "Destination" = "Absolute World Space"
+1. Save
+
+### 6.4 Always show, visible
 
 1. Always show: Uncheck 'Is Spatially Loaded'
 
-### 3.7. Packaging
+### 6.5. World Settings
+
+1. GameMode Override = BP_MyCharacter_GameMode
+
+## 7. Game Packaging
+
+### 7.1. Packaging
 
 Go to: Project Settings/Packaging
 Go to:
@@ -149,113 +155,130 @@ Go to:
 1. Target Hardware
 1. Default RHI
 
-## 4. Settings
+## 8. General
 
-### 4.1. Blueprint info
+### 8.1. Blueprint info
 
 1. [Character tracking](https://www.youtube.com/watch?v=FvOSdkhQ6ag)
 1. [List View Implimentation](https://www.youtube.com/watch?v=76SWLfeyO0o)
 
-### 4.2. World Settings
-
-1. GameMode Override = BP_MyCharacter_GameMode
-
-## 5. C++ Coding
+### 8.2. C++ Coding
 
 1. [Coding Standards](https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine)
 
-## 6. UE 5.6 Customizations
+## 9. UE 5.6 Customizations
 
 1. To show new tool bar: ToolMenusViewportToolbars (0 for old, 2 for new, 1 for both)
 
-## 7. Standard Libraries
+## 10. Game Assets
+
+Imported assets from Fab and other locations
+
+### 10.1. Standard Libraries
 
 1. Fab
 1. StarterContent-----: Starter Content
 1. FirstPerson--------: First Person
 1. ThirdPerson--------: Third Person
 
-## 8. 3rd Party Librariers
+## 8.2. 3rd Party Librariers
 
-### Anumations
+| Animations               | Folder Name               | Library Name                                                     |
+| ------------------------ | ------------------------- | ---------------------------------------------------------------- |
+|                          | Islam_Pray_Animations     | Islam Pray Animations (Islamic praying)                          |
+|                          | ActorCore_Sample_Motions  | ActorCore Sample Motions                                         |
+|                          | Cat_Animation_Pack        | Cat Animation Pack                                               |
+|                          |                           |                                                                  |
+| Avatars                  | **Folder Name**           | **Library Name**                                                 |
+|                          | ParagonSparrow            | Paragon: Sparrow                                                 |
+|                          |                           |                                                                  |
+| Creatures                | **Folder Name**           | **Library Name**                                                 |
+|                          | DesertDragon              | Desert Dragon                                                    |
+|                          | FarmAnimalsPack           | FARM ANIMALS PACK                                                |
+|                          | FourEvilDragonsHP         | Dragon for Boss Monster : Handpainted                            |
+|                          | AnimalVarietyPack         | ANIMAL VARIETY PACK                                              |
+|                          | FourEvilDragonsPBR        | Dragon for Boss Monster : PBR                                    |
+|                          |                           |                                                                  |
+| Environment - Caves      | **Folder Name**           | **Library Name**                                                 |
+|                          | SoulCave                  | Soul: Cave                                                       |
+|                          | FantasyBundle             | Fantasy Bundle Environment Kit 3 in 1                            |
+|                          |                           |                                                                  |
+| Environment - Landscapes | **Folder Name**           | **Library Name**                                                 |
+|                          | Elite_Landscapes          | Elite Landscapes: Bundle Pack                                    |
+|                          | Vegetation                | Mountains & Meadows I Outdoor Environment                        |
+|                          |                           |                                                                  |
+| Environment - Underwater | **Folder Name**           | **Library Name**                                                 |
+|                          | Underwater                | Underwater World / 70 Assets                                     |
+|                          |                           |                                                                  |
+| Environment - World      | **Folder Name**           | **Library Name**                                                 |
+|                          | StarSphere                | StarSphere                                                       |
+| Environment - World      | **Folder Name**           | **Library Name**                                                 |
+| Assets                   | DungeonLamps              | Dungeon Lamps                                                    |
+|                          |                           |                                                                  |
+| Images                   | **Folder Name**           | **Library Name**                                                 |
+|                          | 250BigPrincess_Assets_Set | 250+ Cute Princesses Avatars Icons BIG PACK                      |
+|                          | TheTravelerV1             | [FBG] - The Traveler Vol. 1                                      |
+|                          |                           |                                                                  |
+| Niagara Effects          | **Folder Name**           | **Library Name**                                                 |
+|                          | CharacterBodyFX           | Character Body FX Vol. 1                                         |
+| Materials                | **Folder Name**           | **Library Name**                                                 |
+|                          | Marble_Materials_4K       | Marble Materials                                                 |
+|                          | AutomotiveMaterials       | Automotive Materials                                             |
+|                          | STF                       | Landscape Pro 2.0 Auto-Generated Material                        |
+| Music                    | **Folder Name**           | **Library Name**                                                 |
+|                          | CavesAndDungeons          | Caves and Dungeons                                               |
+|                          |                           |                                                                  |
+| Structures - Buildings   | **Folder Name**           | **Library Name**                                                 |
+|                          | ModularFantasyHouse       | Modular Fantasy House                                            |
+|                          | MesoamericaConstructions  | Ancient Constructions and Platforms                              |
+|                          | Village                   | Slavic Village                                                   |
+|                          | Gothic_Cathedral          | UCreate - Gothic Cathedral Asset Pack                            |
+|                          |                           |                                                                  |
+| Structures - Cities      | **Folder Name**           | **Library Name**                                                 |
+|                          | Stylized_Egypt            | Stylized Egypt                                                   |
+|                          | Bazaar_Meshingun          | The Bazaar                                                       |
+|                          | ModularOldTown            | Modular Old Town                                                 |
+|                          | Valley_Gul                | Valley of Guldur                                                 |
+|                          |                           |                                                                  |
+| Structures - Ruins       | **Folder Name**           | **Library Name**                                                 |
+|                          | Ancient_Ruins             | Ancient Ruins - Free Asset Pack (26 Pieces + Custom Rematerials) |
+|                          | ModularLostRuinKit        | Modular Lost Ruins Kit                                           |
+|                          | TemplesOfCambodia         | [VP] Temples of Cambodia - Ruins exterior and interior           |
+|                          |                           |                                                                  |
+| Shaders                  | **Folder Name**           | **Library Name**                                                 |
+|                          | BlackHole                 | Black Hole Fragment Shader                                       |
+|                          |                           |                                                                  |
+| Special Effects          | **Folder Name**           | **Library Name**                                                 |
+|                          | BigNiagaraBundle          | Big Niagara Bundle                                               |
+|                          |                           |                                                                  |
+| Vegetation - Trees       | **Folder Name**           | **Library Name**                                                 |
+|                          | EuropeanBeech             | European Beech                                                   |
+|                          | BlackAlder                | European Black Alder                                             |
+|                          | EuropeanHornbeam          | European Hornbeam                                                |
+|                          |                           |                                                                  |
+| Projects                 | **Folder Name**           | **Library Name**                                                 |
+|                          | EpicZenGarden2            | Epic Zen Garden                                                  |
+|                          |                           | Magician's Library Environment and VFX Pack                      |
+|                          |                           | Simple Procedural Asset Creator                                  |
+|                          |                           |                                                                  |
+| Fonts                    | **Folder Name**           | **Library Name**                                                 |
+|                          | ntlibrary.org             | RunaHollow Medium                                                |
 
-| Animations | Folder Name | Library Name       |
-| ---------- | ------------------ | ----------- |
-|            | Islam_Pray_Animations | Islam Pray Animations (Islamic praying) |
-|            | ActorCore_Sample_Motions | ActorCore Sample Motions |
-|            | Cat_Animation_Pack | Cat Animation Pack |
-|  |  |  |
-| Avatars    | **Folder Name**    | **Library Name** |
-|            | ParagonSparrow | Paragon: Sparrow |
-|  |  |  |
-| Creatures            | **Folder Name**    | **Library Name** |
-| | DesertDragon       | Desert Dragon                         |
-| | FarmAnimalsPack    | FARM ANIMALS PACK                     |
-| | FourEvilDragonsHP  | Dragon for Boss Monster : Handpainted |
-| | AnimalVarietyPack  | ANIMAL VARIETY PACK                   |
-| | FourEvilDragonsPBR | Dragon for Boss Monster : PBR         |
-|  |  |  |
-| Environment - Caves | **Folder Name**    | **Library Name** |
-|                     | SoulCave         | Soul: Cave        |
-|                     | FantasyBundle    | Fantasy Bundle Environment Kit 3 in 1 |
-|  |  |  |
-| Environment - Landscapes | **Folder Name**    | **Library Name** |
-|                          | Elite_Landscapes | Elite Landscapes: Bundle Pack |
-|                          | Vegetation | Mountains & Meadows I Outdoor Environment |
-|                          |  |  |
-| Environment - Underwater | **Folder Name** | **Library Name** |
-|                          | Underwater | Underwater World / 70 Assets |
-|                          |  |  |
-| Environment - World      | **Folder Name** | **Library Name** |
-|                          | StarSphere | StarSphere |
-| Environment - World | **Folder Name** | **Library Name** |
-| Assets | DungeonLamps | Dungeon Lamps |
-|  |  |  |
-| Images | **Folder Name** | **Library Name** |
-|  | 250BigPrincess_Assets_Set | 250+ Cute Princesses Avatars Icons BIG PACK |
-|  | TheTravelerV1 | [FBG] - The Traveler Vol. 1 |
-|  |  |  |
-| Niagara Effects | **Folder Name** | **Library Name** |
-|  | CharacterBodyFX | Character Body FX Vol. 1 |
-| Materials | **Folder Name**    | **Library Name** |
-|  | Marble_Materials_4K | Marble Materials |
-|  | AutomotiveMaterials | Automotive Materials |
-|  | STF | Landscape Pro 2.0 Auto-Generated Material |
-| Music | **Folder Name**    | **Library Name** |
-|  | CavesAndDungeons | Caves and Dungeons |
-|  |  |  |
-| Structures - Buildings | **Folder Name**    | **Library Name** |
-|  | ModularFantasyHouse | Modular Fantasy House |
-|  | MesoamericaConstructions | Ancient Constructions and Platforms |
-|  | Village | Slavic Village |
-|  | Gothic_Cathedral | UCreate - Gothic Cathedral Asset Pack |
-|  |  |  |
-| Structures - Cities | **Folder Name**    | **Library Name** |
-|  | Stylized_Egypt | Stylized Egypt |
-|  | Bazaar_Meshingun | The Bazaar |
-|  | ModularOldTown | Modular Old Town |
-|  | Valley_Gul | Valley of Guldur |
-|  |  |  |
-| Structures - Ruins | **Folder Name**    | **Library Name** |
-|  | Ancient_Ruins | Ancient Ruins - Free Asset Pack (26 Pieces + Custom Rematerials) |
-|  | ModularLostRuinKit | Modular Lost Ruins Kit |
-|  | TemplesOfCambodia | [VP] Temples of Cambodia - Ruins exterior and interior |
-|  |  |  |
-| Shaders | **Folder Name**    | **Library Name** |
-|  | BlackHole | Black Hole Fragment Shader |
-|  |  |  |
-| Special Effects | **Folder Name**    | **Library Name** |
-|  | BigNiagaraBundle | Big Niagara Bundle |
-|  |  |  |
-| Vegetation - Trees | **Folder Name**    | **Library Name** |
-|  | EuropeanBeech | European Beech |
-|  | BlackAlder | European Black Alder |
-|  | EuropeanHornbeam | European Hornbeam |
-|  |  |  |
-| Projects | **Folder Name**    | **Library Name** |
-|  | EpicZenGarden2 | Epic Zen Garden |
-|  |  | Magician's Library Environment and VFX Pack |
-|  |  | Simple Procedural Asset Creator |
-|  |  |  |
-| Fonts | **Folder Name**    | **Library Name** |
-|  | ntlibrary.org | RunaHollow Medium |
+For Later: ----------------------
+
+1. Asset Naming Convention Keeper
+1. Interactive Justice Scale
+1. Renamer Tool
+1. Portal Travel
+1. Cat Animation Pack
+1. Marble Materials
+1. Sci-Fi Shrine props VOL 5
+1. Korean Railroad Mika 3 161
+1. Rocks and combined
+1. FREE Sword + Animation
+1. bright letters and numbers
+1. KCISA -Korean Presidential Coach
+1. Dark Man GHS
+1. Magic Potion Free
+1. Ancient Ruins – Free Asset Pack (26 Pieces + Custom Rematerials)
+1. Quadruped Fantasy Creatures
