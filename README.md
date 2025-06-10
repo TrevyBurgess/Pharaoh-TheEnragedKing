@@ -86,6 +86,12 @@ Go to Options:
 1. Plugin: Procedural Content Generation Framework
 1. [TUtorial](https://www.youtube.com/watch?v=STqt92VF3KM)
 
+Unblund PCG volume
+
+1. Edit PCG VOlume
+1. Select Sampler (Surface, Volume, Splien, etc.)
+1. Check 'Unbound', or use bounding shape
+
 ## 5.4. Landscape
 
 1. Plugin: Landscape Patch
@@ -144,6 +150,10 @@ For ORM textures...
 ### 6.5. World Settings
 
 1. GameMode Override = BP_MyCharacter_GameMode
+
+### 6.6. Issue with water
+
+1.
 
 ## 7. Game Packaging
 
