@@ -155,6 +155,11 @@ For ORM textures...
 
 1.
 
+### Islam Pray Animations
+
+1. Plug Required: [OpenXR](https://community.gamedev.tv/t/additional-compile-error-in-thirdpersoncharacter/233284/3)
+1. Select: OpenXR
+
 ## 7. Game Packaging
 
 ### 7.1. Packaging
