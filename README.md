@@ -207,6 +207,9 @@ Imported assets from Fab and other locations
 | Avatars                  | **Folder Name**           | **Library Name**                                                 |
 |                          | ParagonSparrow            | Paragon: Sparrow                                                 |
 |                          |                           |                                                                  |
+| Assets                   | **Folder Name**           | **Library Name**                                                 |
+|                          | Ancient_Pillars           | Ancient Pillars (NANITE)                                         |
+|                          |                           |                                                                  |
 | Creatures                | **Folder Name**           | **Library Name**                                                 |
 |                          | DesertDragon              | Desert Dragon                                                    |
 |                          | FarmAnimalsPack           | FARM ANIMALS PACK                                                |
