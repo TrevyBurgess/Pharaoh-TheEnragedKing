@@ -72,15 +72,15 @@ Go to Options:
 
 ## 5. Plugins
 
-### 5.1. 3D text
+| Plug In               | description |
+| --------------------- | ----------- |
+| Landscape Patch       |             |
+| Text 3D               |             |
+| Water, Water Advanced |             |
+|                       |             |
+| Advanced Quest System |             |
 
-1. Plugin: Text 3D
-
-## 5.2. Water Management
-
-1. Plugins: Water, Water Advanced
-
-## 5.3. Modeling (PCG)
+## 5.1. Modeling (PCG)
 
 1. Plugin: Modeling Tools Editor Mode
 1. Plugin: Procedural Content Generation Framework
@@ -91,10 +91,6 @@ Unblund PCG volume
 1. Edit PCG VOlume
 1. Select Sampler (Surface, Volume, Splien, etc.)
 1. Check 'Unbound', or use bounding shape
-
-## 5.4. Landscape
-
-1. Plugin: Landscape Patch
 
 ## 6. Game Customizations
 
@@ -206,6 +202,7 @@ Imported assets from Fab and other locations
 |                          |                           |                                                                  |
 | Avatars                  | **Folder Name**           | **Library Name**                                                 |
 |                          | ParagonSparrow            | Paragon: Sparrow                                                 |
+|                          | Survival_Character        | Survival Character FREE                                          |
 |                          |                           |                                                                  |
 | Assets                   | **Folder Name**           | **Library Name**                                                 |
 |                          | Ancient_Pillars           | Ancient Pillars (NANITE)                                         |
@@ -239,6 +236,7 @@ Imported assets from Fab and other locations
 |                          |                           |                                                                  |
 | Environment - Citgies    | **Folder Name**           | **Library Name**                                                 |
 |                          | - Medieval_Kingdom        | Medieval Kingdom                                                 |
+|                          | Modular_MedievalTown_WI   | Modular Medieval Town with Interior                              |
 |                          |                           |                                                                  |
 | Environment - World      | **Folder Name**           | **Library Name**                                                 |
 |                          | DungeonLamps              | Dungeon Lamps                                                    |
