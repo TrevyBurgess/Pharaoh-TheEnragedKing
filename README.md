@@ -134,7 +134,7 @@ For ORM textures...
 1. In content browser, search for: MF_SimpleWind
 1. Open blueprint
 1. Under "Main Rotator", open "ObjectPivotPoint"
-1. Select "TransformPosition" (Connected to OutputObjectPivotLocation)
+1. Select "TransformPosition" (Connected to Output Object Pivot Location)
 1. Set "Source" = "Instance & Particle Space"
 1. Set "Destination" = "Absolute World Space"
 1. Save
@@ -150,6 +150,15 @@ For ORM textures...
 ### 6.6. Issue with water
 
 1.
+
+### 6.6. Substrate
+
+1. Open the Project Settings
+1. Navigate to Engine > Rendering.
+1. Under the Substrate section, enable Substrate materials (Beta).
+1. Follow the prompts and messages to restart the project.
+1. Note that Substrate won't work until version 5.4, so ensure your project is updated accordingly.
+1. Make sure to save a copy of your project before enabling Substrate, as changes made will not be reversible once it is turned off.1
 
 ### Islam Pray Animations
 

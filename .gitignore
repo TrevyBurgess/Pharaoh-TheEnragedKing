@@ -59,6 +59,9 @@ Deploy/
 !/TheEnragedKing/Content/CyberFF_BasicAssets
 # !/TheEnragedKing/Content/Fab
 
+#
+DerivedDataCache
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
