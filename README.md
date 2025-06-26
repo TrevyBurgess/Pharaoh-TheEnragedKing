@@ -72,13 +72,13 @@ Go to Options:
 
 ## 5. Plugins
 
-| Plug In               | description |
-| --------------------- | ----------- |
-| Landscape Patch       |             |
-| Text 3D               |             |
-| Water, Water Advanced |             |
-|                       |             |
-| Advanced Quest System |             |
+| Plug In                      | description                 |
+| ---------------------------- | --------------------------- |
+| Landscape Patch              |                             |
+| Text 3D                      |                             |
+| Water, Water Advanced        |                             |
+| Advanced Quest System        |                             |
+| Animation Locomotion Library | For accurate foot placement |
 
 ## 5.1. Modeling (PCG)
 
