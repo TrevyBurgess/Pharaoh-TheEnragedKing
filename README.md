@@ -72,13 +72,15 @@ Go to Options:
 
 ## 5. Plugins
 
-| Plug In                      | description                 |
-| ---------------------------- | --------------------------- |
-| Landscape Patch              |                             |
-| Text 3D                      |                             |
-| Water, Water Advanced        |                             |
-| Advanced Quest System        |                             |
-| Animation Locomotion Library | For accurate foot placement |
+| Plug In                                 | description                 |
+| --------------------------------------- | --------------------------- |
+| Landscape Patch                         |                             |
+| Text 3D                                 |                             |
+| Water, Water Advanced                   |                             |
+| Advanced Quest System                   |                             |
+| Animation Locomotion Library            | For accurate foot placement |
+| Modeling Tools Editor Mode              |                             |
+| Procedural Content Generation Framework |                             |
 
 ## 5.1. Modeling (PCG)
 
@@ -293,6 +295,8 @@ Imported assets from Fab and other locations
 |                          |                           |                                                                  |
 | Fonts                    | **Folder Name**           | **Library Name**                                                 |
 |                          | ntlibrary.org             | RunaHollow Medium                                                |
+|                          |                           |                                                                  |
+| UI                       | CrosshairFreePack         | Easy Crosshair – Free Pack (20 Textures)                         |
 
 For Later: ----------------------
 
