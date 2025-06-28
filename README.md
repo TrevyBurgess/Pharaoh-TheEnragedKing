@@ -78,6 +78,7 @@ Go to Options:
 1. Set 'Generate Navigation Only Around Navigation Invokers' = true
 1. Open creature blueprint
 1. Add 'NavigationInvoker'
+1. In Details, adjust Navigation
 
 ## 5. Plugins
 
