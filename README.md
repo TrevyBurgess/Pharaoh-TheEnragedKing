@@ -70,6 +70,15 @@ Go to Options:
 
 ## 4. Project Settings
 
+### 4.1. AI Navigation (Walking)
+
+1. https://www.youtube.com/watch?v=9LiqhyYdpks
+1. Go to Engine | Navigation Mesh
+1. Set 'Runtime Generation' = 'Dynamic'
+1. Set 'Generate Navigation Only Around Navigation Invokers' = true
+1. Open creature blueprint
+1. Add 'NavigationInvoker'
+
 ## 5. Plugins
 
 | Plug In                                 | description                 |
@@ -153,16 +162,16 @@ For ORM textures...
 
 1.
 
-### 6.6. Substrate
+### 6.7. Substrate
 
 1. Open the Project Settings
 1. Navigate to Engine > Rendering.
 1. Under the Substrate section, enable Substrate materials (Beta).
 1. Follow the prompts and messages to restart the project.
 1. Note that Substrate won't work until version 5.4, so ensure your project is updated accordingly.
-1. Make sure to save a copy of your project before enabling Substrate, as changes made will not be reversible once it is turned off.1
+1. Make sure to save a copy of your project before enabling Substrate, as changes made will not be reversible once it is turned off
 
-### Islam Pray Animations
+### 6.8. Islam Pray Animations
 
 1. Plug Required: [OpenXR](https://community.gamedev.tv/t/additional-compile-error-in-thirdpersoncharacter/233284/3)
 1. Select: OpenXR
