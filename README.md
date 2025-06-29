@@ -74,7 +74,7 @@ Go to Options:
 
 1. https://www.youtube.com/watch?v=9LiqhyYdpks
 1. Go to Engine | Navigation Mesh
-1. Set 'Runtime Generation' = 'Dynamic'
+1. Set 'Runtime Generation': 'Static' -> 'Dynamic'
 1. Set 'Generate Navigation Only Around Navigation Invokers' = true
 1. Open creature blueprint
 1. Add 'NavigationInvoker'
