@@ -267,6 +267,8 @@ Imported assets from Fab and other locations
 |                          | TheTravelerV1             | [FBG] - The Traveler Vol. 1                                      |
 |                          |                           |                                                                  |
 | Niagara Effects          | **Folder Name**           | **Library Name**                                                 |
+|                          | AdvancedPortalsSystemVFX  | Advanced Portals System VFX                                      |
+|                          |                           |                                                                  |
 |                          | CharacterBodyFX           | Character Body FX Vol. 1                                         |
 | Materials                | **Folder Name**           | **Library Name**                                                 |
 |                          | Marble_Materials_4K       | Marble Materials                                                 |
