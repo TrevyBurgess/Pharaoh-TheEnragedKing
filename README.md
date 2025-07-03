@@ -255,7 +255,7 @@ Imported assets from Fab and other locations
 | Environment - World      | **Folder Name**           | **Library Name**                                                 |
 |                          | StarSphere                | StarSphere                                                       |
 |                          |                           |                                                                  |
-| Environment - Citgies    | **Folder Name**           | **Library Name**                                                 |
+| Environment - Cities     | **Folder Name**           | **Library Name**                                                 |
 |                          | - Medieval_Kingdom        | Medieval Kingdom                                                 |
 |                          | Modular_MedievalTown_WI   | Modular Medieval Town with Interior                              |
 |                          |                           |                                                                  |
@@ -284,6 +284,7 @@ Imported assets from Fab and other locations
 |                          | Gothic_Cathedral          | UCreate - Gothic Cathedral Asset Pack                            |
 |                          |                           |                                                                  |
 | Structures - Cities      | **Folder Name**           | **Library Name**                                                 |
+|                          | SkyTown                   | Flying Fantasy Town                                              |
 |                          | Stylized_Egypt            | Stylized Egypt                                                   |
 |                          | Bazaar_Meshingun          | The Bazaar                                                       |
 |                          | ModularOldTown            | Modular Old Town                                                 |
@@ -304,6 +305,7 @@ Imported assets from Fab and other locations
 |                          | EpicZenGarden2            | Epic Zen Garden                                                  |
 |                          |                           | Magician's Library Environment and VFX Pack                      |
 |                          |                           | Simple Procedural Asset Creator                                  |
+|                          | InteractiveInventory      | Inventory System - Fully Blueprint V1.3                          |
 |                          |                           |                                                                  |
 | Fonts                    | **Folder Name**           | **Library Name**                                                 |
 |                          | ntlibrary.org             | RunaHollow Medium                                                |
