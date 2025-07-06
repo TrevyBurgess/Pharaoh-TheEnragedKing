@@ -221,12 +221,13 @@ Imported assets from Fab and other locations
 |                          | ActorCore_Sample_Motions  | ActorCore Sample Motions                                         |
 |                          | Cat_Animation_Pack        | Cat Animation Pack                                               |
 |                          |                           |                                                                  |
+| Assets                   | **Folder Name**           | **Library Name**                                                 |
+|                          | Ancient_Pillars           | Ancient Pillars (NANITE)                                         |
+|                          |                           |                                                                  |
 | Avatars                  | **Folder Name**           | **Library Name**                                                 |
 |                          | ParagonSparrow            | Paragon: Sparrow                                                 |
 |                          | Survival_Character        | Survival Character FREE                                          |
-|                          |                           |                                                                  |
-| Assets                   | **Folder Name**           | **Library Name**                                                 |
-|                          | Ancient_Pillars           | Ancient Pillars (NANITE)                                         |
+|                          | Cartoonyoungboy           | Cartoon Young Boy Rigged                                         |
 |                          |                           |                                                                  |
 | Creatures                | **Folder Name**           | **Library Name**                                                 |
 |                          | DesertDragon              | Desert Dragon                                                    |
