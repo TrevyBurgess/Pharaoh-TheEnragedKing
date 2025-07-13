@@ -82,20 +82,23 @@ Go to Options:
 
 ## 5. Plugins
 
-| Plug In                                 | description                 |
-| --------------------------------------- | --------------------------- |
-| Landscape Patch                         |                             |
-| Text 3D                                 |                             |
-| Water, Water Advanced                   |                             |
-| Advanced Quest System                   |                             |
-| Animation Locomotion Library            | For accurate foot placement |
-| Modeling Tools Editor Mode              |                             |
-| Procedural Content Generation Framework |                             |
+| Plug In                      | description                 |
+| ---------------------------- | --------------------------- |
+| Text 3D                      |                             |
+| Water, Water Advanced        |                             |
+| Advanced Quest System        |                             |
+| Animation Locomotion Library | For accurate foot placement |
+| Modeling Tools Editor Mode   |                             |
+|                              |                             |
+
+| Plug In - PCG                           |
+| --------------------------------------- |
+| Procedural Content Generation Framework |
+| Landscape Patch                         |
 
 ## 5.1. Modeling (PCG)
 
 1. Plugin: Modeling Tools Editor Mode
-1. Plugin: Procedural Content Generation Framework
 1. [TUtorial](https://www.youtube.com/watch?v=STqt92VF3KM)
 
 Unblund PCG volume
