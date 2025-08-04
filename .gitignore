@@ -43,7 +43,6 @@
 
 #----------------------------------
 ## Should we ignore these folders?
-Intermediate
 Binaries
 Saved
 *.log
@@ -63,8 +62,11 @@ Deploy/
 
 # Compiled source files for the engine to use
 Plugins/**/Intermediate/*
-Intermediate/Build/*
-
+Intermediate
+#Intermediate/Build/*
+#Intermediate/ProjectFiles/*
+#Intermediate/ShaderAutogen/*
+#!Intermediate/ProjectFiles/TheEnragedKing.vcxproj
 #
 DerivedDataCache
 
