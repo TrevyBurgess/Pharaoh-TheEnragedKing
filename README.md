@@ -12,6 +12,33 @@ As punishment, you are now immortal. But is that a good thing, when every night 
 
 Will you free yourself of the curse, or spend the rest of eternity in torment?
 
+
+
+
+
+
+### 2.1. Libraries - Third Person
+
+1. Characters
+1. Input
+1. LevelPrototyping
+1. ThirdPerson
+1. Variant_Combat
+1. Variant_Platforming
+1. Variant_SideScrolling
+
+### 2.2. Libraries - First Person
+
+1. FirstPerson
+1. Weapons
+
+
+
+
+
+
+
+
 ### 1.2. Lore References
 
 1. [Medical Plants](https://www.bing.com/search?q=medicinal+plants+and+herbs+list)
