@@ -12,12 +12,29 @@ As punishment, you are now immortal. But is that a good thing, when every night 
 
 Will you free yourself of the curse, or spend the rest of eternity in torment?
 
+### 1.2. Monsters
+
+1. Mummies
+1. Jackal-headed guards
+1. Spinks
+
+
+
+## 2. Assets
+
+### 2.1. 
 
 
 
 
 
-### 2.1. Libraries - Third Person
+
+### 2.1. Custom Content
+
+1. _Content
+1. GibblyGoatGames
+
+### 3.1. Libraries - Third Person
 
 1. Characters
 1. Input
@@ -27,17 +44,23 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 1. Variant_Platforming
 1. Variant_SideScrolling
 
-### 2.2. Libraries - First Person
+### 3.2. Libraries - First Person
 
 1. FirstPerson
 1. Weapons
 
+### 3.3. Libraries - Characters
+
+| File Name | Library Name |
+| :-------: | :----------: |
+| Survival_Character | Survival Character FREE |
 
 
 
 
 
 
+------------------------------------------------
 
 ### 1.2. Lore References
 
