@@ -12,22 +12,34 @@ As punishment, you are now immortal. But is that a good thing, when every night 
 
 Will you free yourself of the curse, or spend the rest of eternity in torment?
 
+### 2. Libraries
+
+| Librrary | Name | aa |
+| -------- | ---- | --- |
+| 👑 Survival Character FREE | Survival_Character | 11d20d01-b764-4936-8163-cb20d05c369e |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 1.2. Monsters
 
 1. Mummies
 1. Jackal-headed guards
 1. Spinks
 
-
-
 ## 2. Assets
 
 ### 2.1. 
-
-
-
-
-
 
 ### 2.1. Custom Content
 
