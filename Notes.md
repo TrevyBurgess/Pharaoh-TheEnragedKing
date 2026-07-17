@@ -26,7 +26,7 @@ Fantasy Cave Environment Set
 
 
 
-## 9. Permamently Free Assets
+## 9. Permanently Free Assets
 
 
 
