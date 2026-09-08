@@ -21,16 +21,6 @@ Will you free yourself of the curse, or spend the rest of eternity in torment?
 
 
 
-
-
-
-
-
-
-
-
-
-
 ### 1.2. Monsters
 
 1. Mummies
